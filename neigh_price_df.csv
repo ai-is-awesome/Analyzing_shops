@@ -1,0 +1,3301 @@
+,Neighborhoods,Latitudes,Longitudes,Prices(sqft)
+0,Uttam Nagar,,,7486
+1,Uttam Nagar west,,,6762.32
+2,Malviya Nagar,,,11703.7
+3,laxmi nagar,,,11858.86
+4,Greater kailash 1,,,17797.51
+5,Saket,,,13995.16
+6,Defence Colony,,,20939.86
+7,Safdarjung Enclave,,,21743.02
+8,Vasant Kunj,,,68576.87
+9,Greater Kailash II,,,16788.9
+10,Vasant Vihar,,,48856.77
+11,Dwarka More,,,50359.58
+12,Panchsheel Park,,,60449.23
+13,Panchsheel Enclave,,,19538.06
+14,Shivalik,,,19444.44
+15,Sarita Vihar,,,34203.51
+16,Chhawla,,,4819.7
+17,Chattarpur,,,28422.15
+18,Khanpur,,,4519.11
+19,Geetanjali Enclave,,,22596.56
+20,mayur vihar phase 1,,,18115.21
+21,New Friends Colony,,,12636.03
+22,Burari,,,5894.39
+23,Sector 19 Dwarka,,,17552.53
+24,Kalkaji,,,57796.75
+25,Sector 12 Dwarka,,,15714.44
+26,Sector 22 Dwarka,,,19363.67
+27,Hauz Khas,,,21539.83
+28,laxmi nagar near metro station,,,7893.64
+29,Raja Puri,,,4587.62
+30,Sarvodaya Enclave,,,22216.05
+31,Sarvpriya Vihar,,,nan
+32,Sector 6 Dwarka,,,13743.8
+33,Green Park Extension,,,nan
+34,Sector 23 Dwarka,,,85241.3
+35,Green Park,,,24418.68
+36,Paschim Vihar,,,15976.95
+37,Greater Kailash,,,42582.15
+38,East of Kailash,,,14927.57
+39,Pitampura,,,19100.53
+40,New Ashok Nagar,,,5786.14
+41,Mohan Garden,,,5894.72
+42,Sector 10 Dwarka,,,102339.42
+43,Sector 11 Dwarka,,,13176.38
+44,Dwarka Mor,,,997.85
+45,Sector 4 Dwarka,,,16716.11
+46,Sector 7 Dwarka,,,11841.51
+47,Dwarka New Delhi 110075,,,43931.02
+48,Navjeevan Vihar,,,9803.92
+49,Gulmohar park,,,44385.85
+50,Anand Niketan,,,34421.58
+51,Lalita Park,,,6253.77
+52,Khanpur Deoli,,,466.51
+53,Hari Nagar,,,20296.49
+54,Jangpura,,,3490.91
+55,Neb Sarai,,,4949.95
+56,Zone L Dwarka,,,6307.02
+57,Guru Angad Nagar,,,7311.11
+58,Golf Links,,,2845.53
+59,Punjabi Bagh,,,13690.83
+60,nawada,,,6609.95
+61,Sector 5 Dwarka,,,13246.96
+62,Paryavaran Complex,,,5125.22
+63,Ramesh Park,,,6900.4
+64,Badarpur,,,3452.11
+65,Sector 13 Dwarka,,,1352.46
+66,Vishwakarma Park,,,6443.1
+67,Freedom Fighter Enclave,,,4668.3
+68,Jor bagh,,,4500
+69,Om Vihar,,,5535.2
+70,Mangal Bazar Road,,,795.34
+71,Janakpuri,,,14605.96
+72,Sector 24 Rohini,,,21117.92
+73,Mahavir Enclave,,,8866.37
+74,Shahdara,,,14918.18
+75,Patel Nagar,,,24126.85
+76,Sector 18A Dwarka,,,15335.71
+77,Niti Bagh,,,16818.18
+78,Khanpur Krishna Park,,,4483.39
+79,Mehrauli,,,12612.03
+80,Jaitpur,,,2352.82
+81,C R Park,,,17361.11
+82,i p extension patparganj,,,15136.3
+83,Jasola,,,11324.78
+84,Shanti Niketan,,,26136.36
+85,West Punjabi Bagh,,,13890.39
+86,Maharani Bagh,,,115.23
+87,Karol Bagh,,,15655.69
+88,Sector 24 Dwarka,,,4668.88
+89,Kota House Entrance,,,15287.42
+90,Sector 3 Dwarka,,,17749.69
+91,Delhi,,,21620.23
+92,Vishwas Park,,,4464.29
+93,Jangpura Extension,,,13888.89
+94,Sector 14 Dwarka,,,12569.07
+95,Lajpat Nagar,,,10288.53
+96,South Extension 2,,,25000
+97,Nizamuddin,,,1109.05
+98,Sainik Farms,,,nan
+99,Sector 18B Dwarka,,,43904.58
+100,Chittaranjan Park,,,20944.52
+101,Dwarka More Mohan Garden,,,10589.84
+102,Mayur Vihar I,,,11284.72
+103,Sunder Nagar,,,nan
+104,Tagore Garden,,,13248.88
+105,Sector 9 Dwarka,,,13763.46
+106,L Zone Dwarka Phase 2 Delhi,,,4400
+107,Preet Vihar,,,35433.03
+108,Najafgarh,,,3513.23
+109,Chattarpur Enclave Phase 2,,,8306.16
+110,Guru Ram Das Nagar,,,7777.78
+111,Mansa Ram Park,,,4907.94
+112,Badarpur Border,,,nan
+113,Ramesh Nagar,,,6542.06
+114,Noida,,,77.17
+115,Nawada Uttam Nagar,,,6177.99
+116,Sector-8 Dwarka,,,7914
+117,Uday Park,,,nan
+118,Jamia Nagar,,,16273.36
+119,Kailash Colony,,,9800
+120,Sector 2 Dwarka,,,13666.13
+121,Anand Nagar Laxmi Nagar,,,nan
+122,Khirki Extension,,,6245.41
+123,Sangam Vihar,,,5974.82
+124,Dwarka Phase 2,,,6403.8
+125,Ghitorni,,,5510.91
+126,Safdarjung Development Area,,,9554.6
+127,Munirka,,,15383.25
+128,Krishan Kunj,,,4000
+129,param puri,,,4600
+130,Krishna Nagar,,,7919.11
+131,Sukhdev Vihar,,,16114.22
+132,Sainik Nagar,,,nan
+133,Lajpat Nagar III,,,5786.62
+134,Tilak Nagar,,,7827.27
+135,dwarka sector 12,,,1282.67
+136,Uttam Nagar Nanhey Park,,,4394.34
+137,Vasundhara Enclave,,,12548.67
+138,Sector-7 Rohini,,,12545.45
+139,Uttam Nagar Indra Park,,,nan
+140,Lajpat Nagar II,,,22222.22
+141,Poorvi Pitampura,,,11505.54
+142,Mayur Vihar,,,19909.45
+143,Ramchander Enclave,,,nan
+144,Duggal Colony,,,434.19
+145,Nizamuddin East,,,nan
+146,Vikas Puri,,,12997.71
+147,Jawahar Park,,,3780.69
+148,Sector-18 Dwarka,,,11428.96
+149,vikaspuri,,,15251.96
+150,South Extension Part 1,,,nan
+151,Hauz Khas Enclave,,,22413.79
+152,South Delhi,,,7477.94
+153,Uttam Nagar East,,,5158.16
+154,South Extension,,,34953.84
+155,Old Rajender Nagar,,,nan
+156,Sector22 Rohini,,,17952.04
+157,Sector 6 Rohini,,,nan
+158,Lajpat Nagar IV,,,15176.97
+159,Patparganj,,,15415.62
+160,Govindpuri,,,6550.4
+161,Sector 17 Dwarka,,,10957.27
+162,Rama Park,,,5778.19
+163,Anand Lok,,,49979.18
+164,IGNOU Road,,,3737.78
+165,Uttam Nagar Subhash Park Extn,,,4897.96
+166,Palam,,,9957.71
+167,Okhla,,,8486.43
+168,Delhi Meerut Expressway,,,11334.59
+169,Ganesh Nagar,,,6273.84
+170,Safdarjung,,,24461.76
+171,Mayur Vihar Phase 3,,,10990
+172,Kiran Garden,,,4888.89
+173,Tagore Garden Extension,,,8149.27
+174,Matiala,,,4941.14
+175,Priyadarshini Vihar,,,5849.97
+176,Moti Nagar,,,17929.32
+177,Gagan Vihar,,,976.27
+178,Chilla Sarda Bangar Chilla Sar,,,nan
+179,Deoli Khanpur,,,5967.32
+180,Noida Road,,,7810.44
+181,Ramesh Nagar raja garden bali ,,,nan
+182,Sector 13 Rohini,,,20278.48
+183,subhash park,,,nan
+184,Greater kailash enclave II,,,103591.16
+185,Vikas Marg,,,nan
+186,Rohini Sector 9,,,21925.72
+187,Vishnu Garden,,,2888.89
+188,Badarpur Extension Tajpur,,,nan
+189,D Block Vikaspuri,,,12357.14
+190,Nanhey Park New Delhi,,,6428.57
+191,Sector 11 Rohini,,,12541.67
+192,Shalimar Bagh,,,11360.16
+193,Bindapur,,,6574.19
+194,Uttari Pitampura,,,12848.58
+195,Gautam Nagar,,,11820.33
+196,Block D Sector 8 Dwarka,,,nan
+197,Mahipalpur,,,540.75
+198,Sewak Park,,,9156.31
+199,D Block Lane,,,1215.52
+200,jain colony,,,4809.52
+201,Sector 25 Rohini,,,7856.87
+202,Shastri Nagar,,,11133.19
+203,Anand Vihar,,,12941.36
+204,dwarka sector 13,,,1050.66
+205,Jagdamba Vihar,,,31424.9
+206,Dilshad Garden,,,1271.95
+207,Dwarka Road,,,10771.6
+208,Jagat Ram Park,,,nan
+209,Tughlakabad,,,3228.4
+210,Aya Nagar,,,554.69
+211,New Rajendra Nagar,,,931.82
+212,Jaitpur Kalindi Kunj Road,,,nan
+213,Sanjay Enclave,,,nan
+214,Sector 3 Rohini,,,13571.43
+215,Sector-24 Rohini,,,10818.45
+216,Rajouri Garden,,,11552.01
+217,dwarka sector 19,,,10119.48
+218,Kailash hills,,,129.26
+219,Ashok Vihar,,,9726.4
+220,Bamnoli Dwarka Sector 28,,,599.21
+221,Dwarka Sector3,,,12407.7
+222,Matiala Extension,,,4706.67
+223,Alaknanda,,,16648.1
+224,Lalita Park Foot Over Bridge,,,63.58
+225,Sainik Nagar Mansa Ram Park,,,4888.89
+226,Jaitpur Extension Part II New ,,,nan
+227,Mayur Vihar Phase 2,,,10768.05
+228,Mithapur,,,nan
+229,Pamposh Enclave,,,nan
+230,Chanakya Puri,,,nan
+231,Chhattarpur Enclave Phase1,,,4351.47
+232,DLF Ankur Vihar,,,6451.85
+233,Friends Colony,,,nan
+234,Sector 1 Dwarka,,,10330.81
+235,Sector-D Vasant Kunj,,,16101.29
+236,Civil Lines,,,17656.97
+237,greater kailash Enclave 1,,,nan
+238,Kaushambi,,,7661.32
+239,New Ashok Nagar near metro,,,4705.88
+240,Tigri,,,12698.25
+241,Sector 12 Dwarka New Delhi,,,10770.12
+242,Sector 4,,,13884.31
+243,Madanpur Khadar,,,nan
+244,South Ex,,,20631.31
+245,Model Town,,,13747.54
+246,Dwarka 11 Sector,,,10999.26
+247,Govind Puri,,,11886.11
+248,Jamia Nagar Batla House,,,nan
+249,Khadda Colony,,,nan
+250,Rohini sector 16,,,14209.67
+251,rohini sector 5,,,5833.33
+252,Uttam Nagar Vani Vihar,,,4375
+253,Devli,,,9862.5
+254,Paryavaran Complex Main,,,4250.28
+255,Phase 2 Chattarpur Enclave,,,nan
+256,Shukar Bazar Road,,,nan
+257,Uttam Nagar Jain Colony Part 1,,,nan
+258,Vijay Chowk Road,,,nan
+259,Bamnoli Sector 28 Dwarka,,,5172.84
+260,Nangloi,,,774.83
+261,Nirman Vihar,,,11839.1
+262,Shanti Park Dwarka,,,8102.68
+263,Chilla Sarda Bangar Delhi,,,nan
+264,Jain Park,,,nan
+265,Kirti Nagar,,,21503.17
+266,Raju Park,,,4463.84
+267,Santnagar,,,4428.63
+268,IP Extension,,,11762.02
+269,Loni,,,5651.87
+270,Nehru Place,,,nan
+271,Dwarka Sector 11 Pocket 4,,,53589.26
+272,Kamla Nagar,,,293.63
+273,North Campus,,,29831.19
+274,Om Vihar Extn Delhi,,,4662.86
+275,Sector 12 Dwarka Pocket 3,,,10128.78
+276,Sector-14 Rohini,,,15131.02
+277,Subhash Nagar,,,nan
+278,Westend,,,7702.11
+279,Ashok Nagar,,,6884.79
+280,Dabri,,,10802.96
+281,east delhi,,,12340.89
+282,GANESH NAGAR PANDAV NAGAR COMP,,,nan
+283,Greater kailash III,,,nan
+284,Gyan Kunj,,,nan
+285,Laxmi Nagar Commercial Complex,,,nan
+286,Pandav Nagar,,,1457.06
+287,Sheikh Sarai,,,14514.72
+288,Block J,,,5925.93
+289,Block L,,,nan
+290,Rohini sector 24,,,1017.32
+291,Arjun Nagar,,,8287.29
+292,Dwarka 10 Sector,,,536.84
+293,Mahavir Enclave Bengali Colony,,,555.11
+294,Mandawali,,,4646.3
+295,Narayan Nagar,,,nan
+296,Rama Park Block B,,,6271.6
+297,Sector-8 Rohini,,,13703.7
+298,Bank Enclave,,,1462.5
+299,Block D,,,nan
+300,Ismailpur Road,,,nan
+301,Jasola Vihar Sector 8 Road,,,9322.82
+302,Ratan Park,,,nan
+303,Dwarka sec 6,,,8811.73
+304,Gurgaon Delhi Expressway,,,9344.21
+305,Gurudwara Road,,,5371.54
+306,Jaitpur Extension,,,nan
+307,L Zone Delhi,,,4374.09
+308,MG Road Ghitorni,,,1927.29
+309,Sahibabad,,,7497.31
+310,Sector 21 Dwarka,,,4371.43
+311,Aakash Vihar,,,nan
+312,Badarpur Village,,,nan
+313,Block F,,,nan
+314,Harkesh Nagar,,,nan
+315,Mithapur Extension,,,nan
+316,Ratan Park Delhi,,,nan
+317,Sector 15 Rohini,,,10879.63
+318,Main Rajapuri Road,,,3333.33
+319,Narela,,,7274.73
+320,Nawada Extension,,,5555.56
+321,Sadulajab,,,3950.62
+322,Vasant Kunj Enclave,,,12156.71
+323,Mansarovar garden,,,7121.88
+324,Naraina,,,6666.67
+325,Om Vihar Phase 5,,,nan
+326,Saraswati Vihar,,,8357.14
+327,SECTOR 18 DWARKA NEW DELHI,,,9227.84
+328,Block J Vishwakarma Park,,,nan
+329,Dwarka Sector 7,,,8827.84
+330,Guru Nanak Pura,,,nan
+331,Maidan Garhi,,,nan
+332,S D A,,,nan
+333,Sector 28 Dwarka,,,4467.46
+334,Sector-18 Rohini,,,1243.7
+335,Sri Chand Park,,,nan
+336,Connaught Place,,,44218.75
+337,Abul Fazal Enclave Jamia Nagar,,,5128.21
+338,batla house,,,nan
+339,Begampur Park,,,6812.9
+340,CR Park Main Road,,,16444.44
+341,DLF Dilshad Extention II Dilsh,,,nan
+342,Geeta Colony,,,10402.22
+343,Kalindi Kunj Road,,,18218.41
+344,Rajpur Khurd Village,,,6985.42
+345,Sector 34 Rohini,,,nan
+346,Taimoor Nagar,,,nan
+347,Karampura,,,15708.28
+348,Chattarpur Enclave,,,3510.8
+349,Dwarka 8 Sector,,,7444.44
+350,DWARKA SEC 23,,,8463.06
+351,Fateh Nagar,,,9411.76
+352,Freedom Fighters Enclave,,,4288.07
+353,Milap Nagar,,,nan
+354,Sector 18 Sector 18A Dwarka,,,10344.15
+355,Shivaji Marg,,,15741.67
+356,Vijay Nagar,,,7148.67
+357,Kapashera,,,5486.11
+358,Block H Lajpat Nagar I,,,nan
+359,Chattarpur Mandir Road,,,nan
+360,Chhatarpur Extension,,,nan
+361,Dwarka Sub City,,,9509.9
+362,East Patel Nagar,,,8000
+363,Nawada Sainik Nagar,,,5454.55
+364,Okhla Phase I,,,nan
+365,Prashant Vihar,,,nan
+366,SECTOR 7 DWARKA NEW DELHI,,,10737.49
+367,Shaheen Bagh Jamia Nagar,,,nan
+368,Block E Lajpat Nagar I,,,nan
+369,Chattarpur Enclave Phase 1,,,nan
+370,Indraprastha,,,11551.25
+371,Krishna Park Jawahar Park,,,3720.97
+372,Malviya Nagar Block G,,,nan
+373,Mundka,,,3672.24
+374,Pitampura near NSP,,,nan
+375,Sector-23 Rohini,,,8428.82
+376,Vani Vihar New Uttam Nagar,,,nan
+377,West Patel Nagar,,,nan
+378,Sector 16B Dwarka,,,8516.23
+379,Alaknanda DDA Flats Road,,,18480.2
+380,Bindapur Matiala Road,,,nan
+381,Block K Jagat Ram Park,,,nan
+382,Faridabad Road,,,nan
+383,Freedom Fighter Enclave Road,,,4253.41
+384,Rajpur,,,4232.22
+385,Shakarpur,,,6250
+386,Uttam Nagar Gulabhi Bagh,,,nan
+387,Mandi,,,4636.84
+388,Sector 26 Dwarka,,,5243.94
+389,GTB Nagar,,,nan
+390,Manas Kunj New Uttam Nagar,,,nan
+391,Mansarover Garden,,,1000
+392,Ramesh Park Street Number 10,,,nan
+393,Shakti Nagar,,,22370.68
+394,Som Vihar,,,28333.33
+395,devli export enclave,,,3973.46
+396,Hastsal,,,5833.33
+397,Kohat Enclave,,,nan
+398,Mayur Vihar I Extension,,,nan
+399,Prem Nagar,,,nan
+400,Rajapuri East Uttam Nagar,,,4509.8
+401,Rajinder Nagar,,,22222.22
+402,Ramesh Park K Block Road,,,nan
+403,Sagarpur,,,nan
+404,Sector 23,,,8605.71
+405,Sector-B Vasant Kunj,,,16824.4
+406,SULTANPUR,,,4761.54
+407,Tri Nagar,,,11870.38
+408,Deoli Gaon Nai Basti,,,317.63
+409,Gulmohar Enclave,,,21808.71
+410,Kalkaji Govindpuri,,,9322.92
+411,Khera Khurd,,,9125
+412,Manglapuri,,,9453.97
+413,PANCHSHEEL VIHAR,,,4814.81
+414,Prashant Vihar Sector 14,,,nan
+415,Sector 19B,,,15555.34
+416,Sector 29 Dwarka,,,4528.44
+417,Sector 9 Rohini,,,22768.67
+418,Shahpur Jat,,,7333.33
+419,Zakir Bagh,,,nan
+420,Bakkarwala,,,7500
+421,Bank Colony,,,3160.49
+422,Kotla Mubarakpur,,,19978.63
+423,Malka Ganj,,,77564.1
+424,Molarband School Road,,,nan
+425,New Friends Colony East,,,nan
+426,Razapur Khurd,,,4540.28
+427,Shaheen Bagh,,,nan
+428,Sukar Bazar Road,,,nan
+429,Vasant Kunj Marg,,,15449.02
+430,Vivek Vihar,,,11733.09
+431,Bank Colony Deoli,,,2888.89
+432,Bhagwati Garden,,,4670
+433,Gagan Vihar Mithapur Extension,,,nan
+434,Gharoli,,,10487.18
+435,Kalkaji Extension,,,10735.93
+436,KarKardooma,,,7458.85
+437,Noida Sector 52,,,6371.58
+438,Sudarshan Park,,,11158.02
+439,Swami Nagar,,,nan
+440,Vijay Chowk,,,nan
+441,Baba Road,,,nan
+442,Bal Udhyan Road,,,nan
+443,Chirag Delhi,,,11406.25
+444,D K Road,,,11309.94
+445,DWARKA SECTOR 9,,,10563.29
+446,GK1 W Block Greater Kailash,,,nan
+447,Khushi Ram Park Delhi,,,nan
+448,Laxmi Park,,,nan
+449,Madhu Vihar,,,11541.67
+450,Molar band Extension,,,nan
+451,Munirka Vihar,,,14117.65
+452,Om Enclave Mithapur Extension,,,nan
+453,Paharganj,,,nan
+454,Pocket 2 Sector 6 Dwarka,,,10415.58
+455,Rajpur Khurd Extension,,,nan
+456,Soami Nagar South,,,nan
+457,Zakir Nagar,,,4916.67
+458,Amar colony,,,nan
+459,Geeta Colony Road,,,nan
+460,Gujranwala Town,,,10146.1
+461,Guru Harkishan Nagar,,,nan
+462,Hemkunt Colony,,,nan
+463,Kalyan Vihar,,,3589.74
+464,New Rohtak Road Karol Bagh,,,nan
+465,Park End,,,nan
+466,Pipal Wala Road,,,4612.04
+467,Sector 19,,,12156.18
+468,shyam vihar,,,nan
+469,South Anarkali Delhi,,,11111.11
+470,Sunlight Colony,,,6857.14
+471,West Guru Angad Nagar,,,nan
+472,Ashok Vihar Phase-1,,,8641.98
+473,Block B Lajpat Nagar I,,,nan
+474,Block I Lajpat Nagar II,,,nan
+475,DDA Flats Kalkaji,,,nan
+476,dwarka sector 17,,,8658.35
+477,Inderpuri,,,661.4
+478,Indira Park,,,nan
+479,Madanpur Khadar Village,,,nan
+480,Old Delhi,,,10747.13
+481,Phase 1 Om Vihar Road,,,nan
+482,Sector 4 Rohini,,,9500
+483,Sri Chand Park Matiala,,,nan
+484,Vinod Nagar North,,,5776.38
+485,WEA,,,18607.86
+486,Alaknanda Gangotri Enclave,,,14507.67
+487,Ashram,,,14973.26
+488,Baljeet Nagar,,,2921.35
+489,Block DP Poorvi Pitampura,,,nan
+490,Budh Vihar,,,2555.56
+491,Devli Nai Basti,,,416.67
+492,Govindpura,,,5873.02
+493,Gurgaon Faridabad Road,,,6126.01
+494,Jain Road,,,nan
+495,Jaitpur Extension Part II Khad,,,nan
+496,Kalkaji Main,,,14000
+497,Main Chhatarpur Road,,,nan
+498,Malcha Marg,,,nan
+499,Meethapur Palla Road,,,nan
+500,Near Dwarka sec 21 metro stati,,,5101.33
+501,Roop Nagar,,,27247.96
+502,Sector 36,,,nan
+503,Sirifort Road,,,38888.89
+504,Solanki Road,,,nan
+505,Subhash Park Extn New Delhi,,,4400
+506,Vishwas Park Extn Uttam Nagar,,,3500
+507,Wazirabad,,,4117.65
+508,Babarpur,,,7222.22
+509,Bali Nagar,,,4444.44
+510,Bamnoli,,,735.29
+511,Bhalswa,,,3461.54
+512,Block A Vishwakarma Park,,,nan
+513,Block M Vishwakarma Park,,,nan
+514,dda flat,,,9622.96
+515,Dwarka Sector 11 Pocket 3,,,5630.64
+516,E 2 Vasant Kunj,,,5641.03
+517,Green park Extn,,,nan
+518,Jamia Nagar Gaffar Manzil Exte,,,nan
+519,Madangir,,,441.92
+520,Masjid moth,,,14571.43
+521,Mathura Road Badarpur,,,nan
+522,Mathura Road Sarita Vihar,,,9105.22
+523,Mayfair Gardens,,,nan
+524,Meera Bagh,,,8346.59
+525,Nehru Enclave,,,nan
+526,Netaji Subhash Place,,,20357.14
+527,New Kondli,,,1087.99
+528,Punjabi Bagh Extension,,,nan
+529,Sector 11 Dwarka Pocket 2,,,8394.06
+530,Sector 15A,,,18636.36
+531,Shakarpur Khas,,,nan
+532,Shanti Kunj Main,,,nan
+533,Swasthya Vihar,,,14204.55
+534,Uttam Nagar Nawada,,,nan
+535,Abul Fazal Enclave,,,3466.67
+536,Ali Gaon,,,nan
+537,Amritpuri,,,nan
+538,Azadpur,,,nan
+539,Batla House Jamia Nagar,,,nan
+540,Central Secretariat,,,16216.22
+541,Chirag enclave,,,nan
+542,Delhi Apartments,,,1152.93
+543,Derawal Nagar,,,8171.6
+544,Dr Mukherjee Nagar West Bhai P,,,nan
+545,Dwarka Sector 12 Pocket 4,,,9145.82
+546,Dwarka Sector 16 Main Road,,,8284.02
+547,Friends Colony West,,,nan
+548,Gopal Nagar,,,nan
+549,Jain Park Om Vihar,,,nan
+550,Kalindi Colony,,,nan
+551,Ladosarai,,,nan
+552,Okhla Village,,,nan
+553,Paschim Vihar Main,,,10952.38
+554,Patparganj Road,,,nan
+555,Radhey Shyam Park,,,nan
+556,S Block Road,,,nan
+557,Safdarjung Enclave Block A 2,,,nan
+558,Sector 6 Dwarka Palam Vihar,,,11319.5
+559,Shivaji Park,,,nan
+560,Sushant Lok Delhi,,,3459.87
+561,Vani Vihar Delhi,,,nan
+562,Vikash Marg,,,nan
+563,Vikash Marg Road,,,nan
+564,Vinod Nagar East,,,474.07
+565,10 Sector Dwarka,,,8200.93
+566,Aali Village,,,nan
+567,B K Dutt Colony,,,21912.35
+568,Ballabgarh Sector 6,,,nan
+569,Bhagwati Vihar,,,2888.89
+570,Block A,,,11785.71
+571,Block F Vishwakarma Park,,,nan
+572,Delhi Ajmer Expressway,,,8208.33
+573,Gadaipur,,,nan
+574,Gali Number 4,,,nan
+575,Jagriti Enclave Shreshtha Viha,,,20790.44
+576,Kalindi Kunj Mithapur Road,,,nan
+577,Kundli,,,5177.13
+578,Loknayak Puram,,,5765.43
+579,Mangolpuri,,,nan
+580,Mansarovar Park,,,7849.56
+581,Mayur Vihar III,,,810.86
+582,Mehrauli Badarpur Road,,,nan
+583,Okhla Vihar,,,4888.89
+584,Outram Lines,,,nan
+585,Panchsheel Park South,,,nan
+586,Pitampura KP Block,,,nan
+587,Prithviraj Road,,,nan
+588,Pushpanjali Enclave,,,nan
+589,Ram Garh,,,nan
+590,Ranjeet Nagar,,,10909.09
+591,Sainik Vihar,,,nan
+592,Sector 15 Dwarka,,,nan
+593,Shyam Vihar Phase1,,,4637.25
+594,Tank Road,,,nan
+595,Vikas Nagar,,,nan
+596,Anupam Garden 10th Lane,,,9523.81
+597,Bhiwadi,,,3696.78
+598,Block A1 Chattarpur,,,3750
+599,C Block Janakpuri Road,,,11313.32
+600,Daheli Sujanpur,,,nan
+601,Dal Mill Road,,,nan
+602,DCM Road,,,35115.7
+603,Deepali,,,7393.76
+604,Delhi Jaipur Expressway,,,14122.11
+605,Delhi Metro Depot,,,nan
+606,Dilshad Colony,,,8714.29
+607,Dwarka Sector 15,,,8216.37
+608,Gali Number 2,,,nan
+609,Ismailpur,,,nan
+610,Jharoda Kalan,,,nan
+611,Johripur,,,nan
+612,Kakrola,,,6296.3
+613,Kalu Sarai,,,25713.38
+614,Khirki Extension Panchsheel Vi,,,nan
+615,Kishangarh Mehrauli Road,,,5555.56
+616,Lok Vihar,,,nan
+617,M Block Road,,,nan
+618,Mahipalpur Extension,,,4843.21
+619,Maidan Gari Extension,,,nan
+620,Nasirpur,,,8892.86
+621,Navin Shahdara,,,9565.22
+622,Nilothi,,,nan
+623,Okhla Industrial Area,,,nan
+624,Panchsheel,,,nan
+625,Pitampura Vaishali,,,nan
+626,Rana Pratap Bagh,,,nan
+627,Sarai Rohilla,,,3157.89
+628,Sector 111,,,10260.67
+629,Sector 8 Dwarka Block B,,,10526.32
+630,Sector-28 Rohini,,,5798.52
+631,Sector24,,,10142.86
+632,Sector36 Rohini,,,nan
+633,SectorB Vasant Kunj,,,14285.71
+634,Sewa Nagar,,,6166.67
+635,Shaheen Bagh Jasola Vihar,,,nan
+636,Shakurpur,,,2471.91
+637,Sukh Ram Park,,,nan
+638,Sunder Vihar,,,nan
+639,Vikas Lane,,,nan
+640,Vinod Nagar West,,,nan
+641,Shadipur,,,20636.36
+642,Trilokpuri,,,nan
+643,Aerocity,,,4391.01
+644,Bharat Vihar,,,4383.33
+645,Bhogal,,,nan
+646,Block D Lajpat Nagar I,,,nan
+647,Block G,,,nan
+648,Chitra Vihar,,,11877.01
+649,Defence Colony Flyover,,,53722.18
+650,Delhi Cantonment,,,8437.5
+651,Delhi Jaipur Highway,,,211.9
+652,Delhi Noida Direct Flyway,,,nan
+653,Diplomatic Enclave,,,nan
+654,duggal housing complex,,,3871.83
+655,Ferozshah Road,,,2558.82
+656,Gali Number 12,,,nan
+657,Indra Vihar,,,nan
+658,Jogabai Extension New Delhi,,,nan
+659,Karala,,,3424.66
+660,KHIRKI VILLAGE,,,nan
+661,Lajpat Nagar Vinoba Puri,,,nan
+662,Mansa Ram Park park Path,,,3500
+663,Mayur Vihar 1 Extension,,,nan
+664,Model Town Phase-3,,,nan
+665,Model Town Phase2,,,nan
+666,Nanhey Park Om Vihar,,,nan
+667,Nihal Vihar Delhi,,,nan
+668,Nirankari Colony,,,nan
+669,Pochanpur Colony,,,6263.89
+670,Priyadarshani Vihar,,,nan
+671,Pul Pehlad Pur,,,nan
+672,Raj Nagar 2 Palam Colony,,,nan
+673,Rajokri,,,nan
+674,ramphal chowk,,,nan
+675,S D A New,,,nan
+676,Sadar Bazaar,,,5166.93
+677,Saket Sports Complex Road,,,nan
+678,Sector 103,,,4526.7
+679,Sector 37 Rohini,,,3000
+680,Sector 9,,,13750
+681,Sector-29 Rohini,,,nan
+682,Sheikh Sarai Phase2 New Delhi,,,12513.91
+683,Sonia Vihar,,,2545.45
+684,South Patel Nagar,,,13333.33
+685,Subash Park New Delhi,,,nan
+686,Vasant Enclave,,,13221.54
+687,Vasant Vihar C Block,,,40000
+688,Vijay Enclave,,,nan
+689,Jaunapur,,,nan
+690,Batla House New Delhi,,,376.92
+691,Bhai Parmanand Colony,,,nan
+692,Block AP Poorvi Pitampura,,,13257.08
+693,Block E,,,nan
+694,Block F Pandav Nagar Road,,,nan
+695,Block G Vishwakarma Park,,,nan
+696,Block Wb Ganesh Nagar II,,,nan
+697,Chandni Chowk,,,8230.45
+698,Dr Mukherji Nagar,,,nan
+699,Dwarka Sector 12 Pocket 8,,,nan
+700,Fatehpurberi,,,8869.05
+701,Gali Number 10,,,nan
+702,Gali Number 3,,,nan
+703,Govind Puri Giri Nagar,,,nan
+704,Govindpuri Extension New Delhi,,,4166.67
+705,Hari Nagar Ashram,,,nan
+706,Ishwar nagar,,,11666.67
+707,Jahangir Puri,,,6709.35
+708,Jeevan Park,,,nan
+709,Jharoda Majra Burari,,,nan
+710,Khanpur Colony,,,4100
+711,Khirki Extension New Colony,,,nan
+712,Khirki Extension Road,,,nan
+713,Kirari Suleman Nagar,,,nan
+714,Krishna Puri,,,nan
+715,Manas Kunj Road,,,nan
+716,Mandoli,,,nan
+717,Mohan Co operative,,,nan
+718,Mohan Cooperative Industrial E,,,nan
+719,Naharpur Village,,,2777.78
+720,Nand Ram Park Uttam Nagar,,,nan
+721,North Block Road,,,nan
+722,Pankha Road,,,6000
+723,Paschim Vihar Block A 5,,,nan
+724,Pocket 7 Dwarka Sector 12,,,8536.63
+725,Prahladpur,,,nan
+726,Rajender Nagar Part 1,,,nan
+727,Sector 11,,,9190.97
+728,Sector 12,,,13166.78
+729,Sector 39 Rohini,,,nan
+730,Sector C Vasant Kunj,,,40625
+731,Sitapuri,,,4444.44
+732,Sonepat,,,3390.63
+733,Surajmal Vihar,,,21666.67
+734,Vikram Vihar,,,nan
+735,Westend DLF Chattarpur Farms,,,nan
+736,Westend Marg,,,nan
+737,62 Noida Bridge,,,nan
+738,Adarsh Nagar,,,nan
+739,Ali Village,,,6976.74
+740,Barakhamba Road,,,nan
+741,Bhola Nath Nagar,,,nan
+742,Block B,,,nan
+743,Block C,,,nan
+744,Block C Krishan Kunj,,,nan
+745,Block C Lajpat Nagar I,,,nan
+746,Burari Garhi,,,4817.3
+747,c 1 vasant kunj,,,nan
+748,CA Apartments,,,109.74
+749,Chanakya Place,,,nan
+750,Chandra Park,,,3902.11
+751,DaryaGanj,,,9272.73
+752,Double Storey New Rajinder Nag,,,nan
+753,Dwarka Mor Vipin Garden Extens,,,nan
+754,East of Kailash C Block,,,nan
+755,Freedom Fighter Vihar,,,5000
+756,Gali Number 11,,,nan
+757,Gali Number 5,,,nan
+758,Gazipur,,,10540.11
+759,Gokalpur,,,nan
+760,Harsh Vihar,,,nan
+761,HAUZ RANI,,,3571.43
+762,Hill View,,,18416.67
+763,Jaitpur Extension Part II,,,nan
+764,Jamia Millia Islamia,,,nan
+765,Kanjhawla,,,3471.55
+766,Karawal Nagar,,,2666.67
+767,Kautilya Marg,,,nan
+768,Mahipalpur Extention,,,nan
+769,Maujpur,,,nan
+770,Mehrauli Village,,,3870.36
+771,Munirka Kunj Main Road,,,1395.24
+772,NRI Colony New Delhi,,,nan
+773,Om Vihar Phase 3,,,nan
+774,Palam Colony,,,nan
+775,Palam Extension,,,nan
+776,Palam Vihar,,,9152.54
+777,Prem Nagar Road,,,nan
+778,Pul Prahladpur,,,nan
+779,R K Puram,,,29411.76
+780,Raja garden,,,nan
+781,Rajouri Garden Extension,,,nan
+782,Ram Nagar Extension,,,5555.56
+783,Ramesh Park L Block Road,,,nan
+784,Rithala,,,4550
+785,Rohini Extension,,,nan
+786,RWA Colony,,,nan
+787,Saharanpur Delhi Road,,,nan
+788,Sanjay Colony,,,nan
+789,Sawan Park,,,nan
+790,Sector 1 Rohini,,,nan
+791,Sector 10,,,8919.76
+792,Sector 4 Road,,,1017.2
+793,Sector 6,,,7889
+794,Sector-16 Dwarka,,,4250
+795,Sector-19 Rohini,,,11531.25
+796,Sector-21 Rohini,,,7865.38
+797,SFS Flats Saket,,,13571.43
+798,Shivalik Block B,,,nan
+799,Sidharth Ext,,,12727.27
+800,Siri Fort,,,nan
+801,Sri Niwaspuri,,,nan
+802,Street Number 12,,,nan
+803,Sultanpur Extension,,,3969.7
+804,Vasant Kunj Nangal Dewat,,,nan
+805,10 Dwaraka Marg,,,8428.9
+806,100 Feet Road,,,nan
+807,59 Sector 22 Road,,,12975.78
+808,A1 Block Paschim Vihar Delhi,,,10952.38
+809,Aaya Nagar,,,nan
+810,Alipur Village,,,nan
+811,Anand Parbat,,,nan
+812,Ashok Vihar Phase-2,,,nan
+813,Bamnoli Village Delhi,,,5000
+814,Bawana,,,nan
+815,Block B Pochanpur,,,nan
+816,Block J Rajouri Garden Extensi,,,12923.08
+817,Budh Nagar,,,7777.78
+818,Chitrakoot,,,nan
+819,D6 Sector D,,,nan
+820,Dashrath Puri,,,nan
+821,DAYANAND COLONY,,,nan
+822,Delhi Gurgaon Expressway,,,nan
+823,Delhi Rohtak Road,,,nan
+824,Dhul Siras,,,4375
+825,Dilshad Plaza,,,nan
+826,DK Road,,,nan
+827,DLF City Phase II Delhi,,,nan
+828,DLF Farms,,,nan
+829,DLF Phase 5,,,12375.48
+830,DND Toll Booth,,,nan
+831,DPS Matiyala,,,8750.75
+832,Dr Ambedkar Colony,,,4666.67
+833,Dwaraka Marg,,,nan
+834,East Punjabi Bagh Jaidev Park,,,nan
+835,Gali Number 13,,,nan
+836,Geetanjali Enclave West Sagarp,,,nan
+837,Geetanjali Park Block RZ,,,nan
+838,Govindpura Old,,,6112.91
+839,Govindpuri Main,,,nan
+840,Goyla Dairy,,,nan
+841,Goyla Khurd,,,nan
+842,Greater Kailash 3 Road,,,nan
+843,GurgaonMehrauli Road,,,nan
+844,Hailey Road,,,43243.24
+845,Hamdard Nagar,,,nan
+846,Hastsal Road,,,nan
+847,Ibrahimpur,,,nan
+848,Jain Colony Delhi,,,nan
+849,Jaipur Road,,,nan
+850,Jama Masjid,,,nan
+851,Kailash Enclave Harsh Vihar,,,nan
+852,Kair,,,nan
+853,Kalindi,,,nan
+854,Kapil Vihar,,,nan
+855,Kashmere Gate,,,nan
+856,Katwaria Sarai,,,8125
+857,Khajoori Khas,,,nan
+858,Khirki Extn,,,nan
+859,Laxmi Bai Nagar,,,nan
+860,Madangir Village,,,nan
+861,Mahendru Enclave,,,nan
+862,Masjid Moth Village,,,7000
+863,masoodpur,,,14629.63
+864,Maya Enclave,,,8771.65
+865,Milap Nagar Main,,,nan
+866,Nangli Sakrawati,,,nan
+867,Naraina Vihar,,,nan
+868,Nawada Shyam Park,,,nan
+869,New Layal Pur,,,5000
+870,New Mustafabad,,,nan
+871,New Palam Vihar Phase 2,,,nan
+872,New Uttam Nagar,,,nan
+873,Peeragarhi Village,,,592.07
+874,Prakash Mohalla,,,nan
+875,Rajdhani Enclave,,,nan
+876,Rajendra Park,,,nan
+877,Rajiv Chowk,,,11000
+878,Ram Datt Enclave,,,nan
+879,Ramesh Nagar Road,,,nan
+880,Residential Floorsector,,,13137.79
+881,Saiyad Ul Ajaib,,,nan
+882,Sarai Kale Khan,,,nan
+883,Sarojini Nagar,,,4526.75
+884,Sector 18,,,11183.57
+885,Sector 62,,,nan
+886,Sector 8B,,,13240.74
+887,Shiv Nagar,,,nan
+888,Shreshtha Vihar,,,12444.44
+889,Shyam Enclave,,,5555.56
+890,South Anarkali New Delhi,,,nan
+891,State Bank Nagar,,,nan
+892,Suraj Kund Badkhal Road,,,nan
+893,Surhera,,,4300
+894,Tajpur Pahari Village,,,nan
+895,Tarun Enclave,,,nan
+896,Vasant Kunj Sector A,,,nan
+897,Vishal Enclave,,,3724.14
+898,Wazirpur,,,nan
+899,West End,,,nan
+900,55 Sector 13 Main Road,,,nan
+901,82 Sector 22 Road,,,5462.17
+902,85 Sector 22 Road,,,5720
+903,Abul Fazal Enclave I,,,nan
+904,Adchini,,,nan
+905,AKSHARDHAM,,,23171.14
+906,Ambica Vihar,,,9615.38
+907,Amrit Puri Block B,,,nan
+908,Aradhna Enclave,,,nan
+909,Ashirwad,,,8750
+910,Ashok Vihar Phase 3,,,nan
+911,Avantika Sector 1,,,nan
+912,Azad Apartments,,,25000
+913,Badarpur Mehrauli Road,,,nan
+914,Bagdola,,,nan
+915,Baldev Park East,,,7812.5
+916,Batla House Okhla,,,nan
+917,Bees Sutri Harijan Basti,,,1583.33
+918,Bengali Colony Mahavir Enclave,,,nan
+919,Bengali Market,,,nan
+920,Ber Sarai,,,18750
+921,Bhawani Kunj,,,nan
+922,Bijwasan Road,,,nan
+923,Block C Mansa Ram Park,,,nan
+924,Block J K,,,nan
+925,Block ND Dakshini Pitampura,,,nan
+926,Block PP Poorvi Pitampura,,,nan
+927,Block S Greater Kailash I,,,nan
+928,CD Block Dakshini Pitampura,,,25000
+929,Chanakya Place I,,,nan
+930,CSP Flats,,,nan
+931,DCM School Marg,,,6478.21
+932,Dera Mandi,,,nan
+933,Devli Extention,,,2430.56
+934,Devli Extention Deoli Gaon Nai,,,3143.6
+935,Dhansa,,,nan
+936,DLF City Phase 3 Road,,,315.83
+937,Dori Walan,,,nan
+938,East Block Road,,,nan
+939,Ekta Vihar,,,nan
+940,Gadaipur Bandh Road,,,nan
+941,Gagan Vihar Extension Gagan Vi,,,nan
+942,Gandhi Nagar Seelampur,,,nan
+943,Ghevra,,,nan
+944,Ghitorni Village South Delhi,,,17500
+945,Gold Valley,,,nan
+946,GT Road,,,1441.49
+947,Gulab Bagh,,,566.67
+948,Guru Ramdas Nagar,,,nan
+949,Gurunanak Pura,,,nan
+950,Har Nagar,,,nan
+951,IGI Airport,,,4826.07
+952,Indra Enclave,,,nan
+953,Islampur,,,nan
+954,Jaffarpur Kalan,,,nan
+955,jangpura bhogal,,,nan
+956,Jasola Sector 8,,,10833.33
+957,Jhandewalan,,,nan
+958,Jor Bagh Colony Road,,,nan
+959,Kalkaji Flyover,,,12534.18
+960,Kalyan Puri Road,,,4920.63
+961,Keshavpuram,,,8333.33
+962,Khushi Ram Park Param Puri,,,5000
+963,Kirti Nagar Industrial Area,,,nan
+964,kishan ghar,,,nan
+965,Kishangarh Village New Delhi,,,5617.98
+966,Lodhi Colony,,,12000
+967,Lodhi Road,,,nan
+968,Madan Puri,,,nan
+969,Mahavir Enclave Nanda Block,,,nan
+970,Mahendra Park,,,nan
+971,Mahipalpur Village,,,nan
+972,Malviya Nagar Road,,,nan
+973,Mandawali Main Road,,,nan
+974,Mandi House,,,nan
+975,Mangal Bazaar Road,,,nan
+976,Manglapuri Village,,,36638.98
+977,Mathura Road,,,13750
+978,Mathura Road Jasola,,,nan
+979,Mayur Vihar Pocket F,,,47435.48
+980,Mianwali Nagar Peera Garhi,,,10400
+981,Mirpur Turk,,,4483.43
+982,Molarband Village,,,nan
+983,Moti Bagh South,,,4545.45
+984,Mubarakpur Dabas,,,nan
+985,Mukund Pur Part II,,,nan
+986,Munirka Flyover,,,10296.3
+987,Munirka Marg,,,11273.33
+988,New Ashok Nagar Block E,,,nan
+989,New Gupta Colony,,,nan
+990,New Mahavir Nagar,,,nan
+991,New Rohtak Road,,,nan
+992,NH8 Toll booth,,,nan
+993,Om Nagar,,,nan
+994,Palika Bazar,,,nan
+995,Pant Nagar,,,3264.76
+996,Pind Wala Khurd Village,,,65573.77
+997,Pocket 6 Sector D,,,nan
+998,Pocket 7 Sector D,,,11764.71
+999,Pocket 8 Sector C,,,16666.67
+1000,Pratap Khand,,,6209.15
+1001,QU Block Uttari Pitampura,,,nan
+1002,Rani Bagh,,,nan
+1003,Sadh Nagar Palam Colony,,,3823.53
+1004,Samalkha,,,nan
+1005,Samay Pur,,,nan
+1006,Sandesh Vihar,,,18518.52
+1007,Sanjay Colony Okhla Phase II,,,nan
+1008,santosh park,,,nan
+1009,Satyawati Colony,,,nan
+1010,Savitri Nagar,,,nan
+1011,Savitri Nagar Village,,,nan
+1012,Sector 108,,,5624.3
+1013,Sector 16A Dwarka,,,6269.59
+1014,Sector 42,,,nan
+1015,Sector 49,,,nan
+1016,Sector 5,,,8758.77
+1017,Sector 7,,,9485.71
+1018,Sector B Pocket 10,,,1947.62
+1019,Sector17 Rohini,,,7995.09
+1020,Sector7 Rohini,,,nan
+1021,Shaheen Bagh New Delhi,,,4896.42
+1022,Shanti Kunj Main Road,,,nan
+1023,Shastri Nagar Road,,,nan
+1024,Shiksha Bharti School Road,,,nan
+1025,Shiva Enclave,,,nan
+1026,Siraspur,,,nan
+1027,Sultan Puri,,,nan
+1028,Tigri Colony,,,nan
+1029,Tihar Village,,,nan
+1030,Virender Nagar,,,nan
+1031,Vrindavan Road,,,4468.12
+1032,West Bhai Parmanand Colony,,,nan
+1033,West Enclave,,,10752.68
+1034,West Sagarpur Shiv Puri,,,nan
+1035,West Vinod Nagar,,,nan
+1036,Yamuna Road,,,10505.63
+1037,Yojna Vihar,,,nan
+1038,Zamrudpur Village,,,nan
+1039,Moti Bagh,,,nan
+1040,Delhi Cantt,,,527.04
+1041,102 Sector 21 Road,,,3389.42
+1042,127 Sector 23 Road,,,13745.7
+1043,40 Sector 21 Road,,,nan
+1044,81 Noida Link Road,,,nan
+1045,91 Sector 23 Road,,,41.07
+1046,A Block,,,nan
+1047,Abul Fazal Enclave New Delhi,,,nan
+1048,Abul Fazal Enclave Part 2 New ,,,4555.56
+1049,Adhchini,,,nan
+1050,Alipur,,,nan
+1051,Anarkali Colony South Anarkali,,,nan
+1052,Andrews Ganj,,,nan
+1053,Antriksh Bhawan,,,3542.37
+1054,Anup Nagar,,,nan
+1055,Aya Nagar Phase 5,,,nan
+1056,B Block,,,nan
+1057,B1 Block Paschim Vihar,,,nan
+1058,Baljit Nagar,,,nan
+1059,Bamnoli Village Sector 28 Dwar,,,nan
+1060,Basai Dara pur,,,nan
+1061,Basantpur,,,nan
+1062,Batra Gali,,,nan
+1063,Begam Pur,,,nan
+1064,Begumpur Road,,,nan
+1065,Bhajanpura,,,nan
+1066,Bindapur Road,,,nan
+1067,Block A Sector 8 Dwarka,,,nan
+1068,Block I,,,nan
+1069,Block JP Poorvi Pitampura,,,9988.01
+1070,Block M,,,nan
+1071,Block UU Uttari Pitampura,,,7781.65
+1072,Block Wa Nanakpura,,,nan
+1073,Budh Vihar Phase II,,,nan
+1074,Burari Kamal Vihar,,,nan
+1075,Chennai Delhi Highway,,,nan
+1076,Chirag Dilli,,,3500
+1077,Commercial Shop Karol Bagh,,,16650
+1078,Commonwealth Games Village,,,15476.19
+1079,Dabri Extension East,,,nan
+1080,Dakshini Pitampura,,,nan
+1081,Dakshinpuri,,,nan
+1082,Dalmia Vihar,,,nan
+1083,Daya Basti,,,nan
+1084,Devli Extension,,,nan
+1085,Dhaka Village,,,nan
+1086,DLF City Phase 1,,,nan
+1087,DLF Golf Course,,,nan
+1088,Durga Puri,,,nan
+1089,E Block Preet Vihar,,,13263.42
+1090,East Guru Angad Nagar,,,nan
+1091,East Vinod Nagar,,,nan
+1092,Experion Heartsong,,,6303.13
+1093,Gali Number 5 MS Block,,,nan
+1094,Gautam Nagar Road,,,nan
+1095,Gautampuri Awas,,,nan
+1096,Ghaffar ManzilJohri Farm Road,,,nan
+1097,Ghazipur Village,,,nan
+1098,Gulabhi Bagh Om Vihar,,,3600
+1099,Gulmohar Park Road,,,nan
+1100,Gurgaon Dabri Road,,,4585.51
+1101,Guru Ram Dass Nagar Government,,,nan
+1102,Hauz Khas Village New Delhi,,,nan
+1103,Indraprasth Colony,,,nan
+1104,Jammu Delhi Road,,,6250
+1105,Janakpuri B1 Market,,,9444.44
+1106,Jangpura A,,,nan
+1107,Jivan Park,,,nan
+1108,JJ Colony,,,nan
+1109,Kailash Road,,,nan
+1110,Kalkaji Govindpuri Extension,,,nan
+1111,Kamruddin Nagar,,,nan
+1112,Kapas Hera Extension,,,1866.67
+1113,Karampura West,,,13513.51
+1114,KG 2 Road,,,8801.96
+1115,Khizarabad Bhagol,,,nan
+1116,KMP Expressway,,,nan
+1117,Krishan Vihar,,,nan
+1118,Krishi Kunj,,,nan
+1119,Kundli Manesar Palwal Expressw,,,53125
+1120,Lakshmi Park,,,nan
+1121,Laldora,,,nan
+1122,LIG Flats,,,8819.93
+1123,Madhu Vihar IPExtension,,,nan
+1124,Maidan Garhi Road,,,nan
+1125,Malka Ganj Road,,,nan
+1126,Malviya Nagar Inner Lane,,,nan
+1127,Mandakini Enclave,,,16388.89
+1128,Mandi Road,,,5800
+1129,Mayapuri,,,nan
+1130,Mayur Vihar Phase3 Main Road,,,nan
+1131,Model Town Phase-1,,,nan
+1132,Model Town Phase-2,,,nan
+1133,Mohan Baba Nagar,,,nan
+1134,Mount Kailash Apartment,,,18333.33
+1135,Narmada Apartments,,,13462.57
+1136,Nawada Majra Village,,,nan
+1137,Nayak Pura,,,nan
+1138,Nehru Enclave C Block Kalkaji ,,,nan
+1139,Nehru Nagar,,,nan
+1140,Netaji Subash Marg,,,7826.09
+1141,New Ranjeet Nagar,,,nan
+1142,New Seelampur,,,nan
+1143,Noor Nagar,,,4266.67
+1144,ohkla industrial area Ph I,,,nan
+1145,Old Gupta Colony,,,nan
+1146,Palam Metro Road,,,nan
+1147,Partap Nagar,,,5000
+1148,Paschim Vihar A 1 Block,,,8300
+1149,Peepal Wala Road,,,nan
+1150,Phase 3 Ashok Vihar,,,nan
+1151,Pocket 1 Sector B,,,nan
+1152,Pocket 11 Sector B,,,16000
+1153,Pocket 2 Sector D,,,13365.38
+1154,Pocket 9 Sector C,,,16666.67
+1155,Pocket A SectorA,,,nan
+1156,Pocket BC SectorA,,,nan
+1157,Pooth Kalan,,,nan
+1158,Pratap Vihar,,,nan
+1159,Press Enclave,,,nan
+1160,Priyadarshini Vihar Priya Priy,,,nan
+1161,Pushkar Enclave,,,nan
+1162,Qutub Vihar I,,,nan
+1163,R.K. Puram,,,nan
+1164,Radhey Puri,,,nan
+1165,Rajasthan Udyog Nagar,,,nan
+1166,Rajdoot Marg,,,nan
+1167,Rajpur Khurd Village Mahavir C,,,nan
+1168,Ramesh Park Street Number 11,,,nan
+1169,Rameshwar Nagar,,,nan
+1170,Rampuri Kalkaji,,,nan
+1171,Residential Flat Mehrauli,,,3370.79
+1172,Rishi Nagar,,,6222.22
+1173,Rohini Sector 8 Road,,,nan
+1174,Saboli,,,nan
+1175,Saidabad,,,nan
+1176,Saiyad Ul Ajaib Village,,,3777.78
+1177,Salempur Majra,,,18750
+1178,Saraswati Garden,,,nan
+1179,Sardar Patel Enclave,,,nan
+1180,Sarojini Park,,,nan
+1181,Sat Bari,,,nan
+1182,Sector 1,,,8674.1
+1183,Sector 10 Pocket 1,,,7250
+1184,Sector 12 Dwarka Pocket 2,,,8000
+1185,Sector 13 Main Road,,,nan
+1186,Sector 14,,,nan
+1187,Sector 21 Road,,,5263.16
+1188,Sector 3,,,nan
+1189,Sector 30,,,4603.58
+1190,Sector 35,,,nan
+1191,Sector 43,,,nan
+1192,Sector 7D,,,nan
+1193,Sector 8A,,,nan
+1194,Sector C Pocket 2,,,nan
+1195,Sector E,,,nan
+1196,Sector-16 Rohini,,,nan
+1197,Sector-22 Rohini,,,nan
+1198,Sector16 Rohini,,,nan
+1199,Sector4pkt 1,,,9233.81
+1200,Seemapuri,,,nan
+1201,Shahabad Mohammadpur,,,4266.67
+1202,Shahpur Jat Village,,,nan
+1203,Shankar Vihar,,,12306.61
+1204,Shanti Kunj,,,nan
+1205,Shayam Street,,,nan
+1206,South Extension 1,,,nan
+1207,South Ganesh Nagar Underpass,,,nan
+1208,Sriniwas Puri,,,nan
+1209,Street B8,,,nan
+1210,Subzi Mandi,,,4784.69
+1211,Tagore Park,,,nan
+1212,Titarpur Tagore Garden,,,nan
+1213,Ujwa,,,4200
+1214,Vani Vihar Road,,,nan
+1215,Vasant Kunj Bhawani Kunj,,,nan
+1216,Vayusenabad,,,nan
+1217,Vikram Nagar,,,nan
+1218,Vikram Vihar Lajpat Nagar IV,,,nan
+1219,Vinoba Puri,,,nan
+1220,Vipin Garden,,,nan
+1221,Vipin Garden Extension,,,nan
+1222,Vishwakarma Colony,,,nan
+1223,Vishwas Nagar,,,nan
+1224,Wazirpur Industrial Area,,,nan
+1225,West End Greens,,,nan
+1226,West Sagarpur,,,nan
+1227,Zone P II,,,nan
+1228,10 Dwarka Sector 9 Road,,,8493.15
+1229,103 Sector 21 Road,,,9565.22
+1230,103 Sector Road,,,5136.99
+1231,109 Sector 21 Road,,,5611.92
+1232,119 Sector 6 Road,,,4137.93
+1233,137 Sector 13 Main Road,,,6383.95
+1234,144 Sector B Road,,,2592.59
+1235,164 Sector Road,,,nan
+1236,2 Dwarka Sector 16 Main Road,,,nan
+1237,2 Palam Village Road,,,nan
+1238,22 Sector 13 Main Road,,,12500
+1239,25 Feet Road,,,nan
+1240,4 Dwarka Sector 9 Road,,,7123.44
+1241,4 Sector 4 Road,,,11562.5
+1242,43 Sector Road,,,nan
+1243,48 Sector 22 Road,,,nan
+1244,52 Park Road,,,nan
+1245,55 Sector 21 Road,,,nan
+1246,55 Sector Road,,,nan
+1247,6 Sector 13 Main Road,,,8529.41
+1248,65 Sector Road,,,10255.13
+1249,67 Sector 22 Road,,,nan
+1250,78 Sector 6 Road,,,4790.07
+1251,79 Mathura Road,,,nan
+1252,79 Noida Link Road,,,3998.71
+1253,88 Sector 22 Road,,,4837.43
+1254,89 Sector 21 Road,,,nan
+1255,89 Sector 22 Road,,,10500
+1256,93 Sector 23 Road,,,nan
+1257,95 Sector Road,,,nan
+1258,A 3 Block,,,nan
+1259,A Block JJ Colony,,,nan
+1260,A Block Road,,,11785.71
+1261,A4 Block Paschim Vihar,,,nan
+1262,ABlock,,,nan
+1263,Abul Fazal Enclave Part 2 Jami,,,nan
+1264,Aerocity New Delhi,,,nan
+1265,AGCR Enclave,,,nan
+1266,Ahinsa Vihar Road,,,4642.86
+1267,Ajay Enclave Extension,,,nan
+1268,Ajit Vihar Burari Garhi,,,nan
+1269,Ajmeri Gate,,,nan
+1270,Ali Vihar Sarita Vihar,,,nan
+1271,Ambadeep Building,,,nan
+1272,Amber Hai,,,nan
+1273,Anand Vihar C Block Road,,,nan
+1274,Andheria Mor Village,,,nan
+1275,Ansal Satbari,,,nan
+1276,APB Garhi,,,nan
+1277,Arakashan Road,,,nan
+1278,Aram Park,,,nan
+1279,Arihant Nagar,,,nan
+1280,Arjan Garh,,,nan
+1281,Arjun Park Main,,,nan
+1282,Arpan Vihar Colony,,,nan
+1283,Arya Nagar,,,nan
+1284,Arya Nagar Road,,,nan
+1285,Ashok Vihar Phase 1 Road,,,nan
+1286,Ashoka Niketan,,,nan
+1287,Ashoka Road,,,nan
+1288,Ashram New,,,nan
+1289,Asiad village,,,nan
+1290,Asian Games Village Complex,,,nan
+1291,Asian Highway 2,,,nan
+1292,Aya Nagar Phase 1,,,nan
+1293,Aya Nagar Phase 2,,,nan
+1294,Azad Market,,,nan
+1295,Azad Nagar East Delhi,,,nan
+1296,B 3 Block,,,nan
+1297,B 5 Block,,,nan
+1298,B a b a Colony Main Road,,,nan
+1299,B4 Block,,,11764.71
+1300,Babar Road,,,nan
+1301,Babarpur Road,,,nan
+1302,Bagdola Dwarka 8 Sector,,,nan
+1303,Bahadurgarh Road,,,nan
+1304,Bahapur,,,nan
+1305,Banarsi Das Estate,,,nan
+1306,Bank Enclave Foot Over Bridge,,,nan
+1307,Bapa Nagar,,,nan
+1308,Baprola,,,10952.38
+1309,Bapu Park Kotla Mubarakpur,,,nan
+1310,Bara Hindu Rao,,,nan
+1311,Basantpur Road,,,nan
+1312,Bhagat Chandra Hospital,,,6800
+1313,Bhagwan Nagar,,,nan
+1314,Bhagwan Nagar New Delhi,,,nan
+1315,Bhagwati Garden Extension,,,4100
+1316,Bharthal,,,2285.71
+1317,Bihari Colony,,,nan
+1318,Bistdari Road,,,nan
+1319,Block 18,,,nan
+1320,Block 3,,,nan
+1321,Block A 2A Asalatpur Village,,,nan
+1322,Block A APB Garhi,,,nan
+1323,Block A Panchvati Apartment,,,nan
+1324,Block A1,,,nan
+1325,Block B 1B,,,nan
+1326,Block B 7,,,nan
+1327,Block B West Patel Nagar,,,nan
+1328,Block BG 1,,,nan
+1329,Block C 2 Sector 14,,,nan
+1330,Block C Uttam Nagar East,,,nan
+1331,Block C Vishwas Park,,,nan
+1332,Block C3 Janakpuri,,,nan
+1333,Block C4H,,,nan
+1334,Block CU Uttari Pitampura,,,nan
+1335,Block D 13 Phase 2,,,nan
+1336,Block DU Uttari Pitampura,,,nan
+1337,Block ED Dakshini Pitampura,,,nan
+1338,Block G Lajpat Nagar I,,,nan
+1339,Block GH10 Sunder Vihar,,,nan
+1340,Block GH5,,,7333.33
+1341,Block H Guru Nanak Pura,,,nan
+1342,Block L Kailash Colony Road,,,nan
+1343,Block LD Dakshini Pitampura,,,16666.67
+1344,Block LU Uttari Pitampura,,,nan
+1345,Block N Vishwakarma Park,,,nan
+1346,Block QP Poorvi Pitampura,,,nan
+1347,Block S Greater Kailash II,,,nan
+1348,Block S Panchsheel Park South,,,nan
+1349,Block SD Delhi,,,7588.24
+1350,Block SU Uttari Pitampura,,,nan
+1351,Block TP Poorvi Pitampura,,,nan
+1352,Block U,,,nan
+1353,Block VP Poorvi Pitampura,,,nan
+1354,Block YP Poorvi Pitampura,,,nan
+1355,Block ZP Poorvi Pitampura,,,nan
+1356,Bolck B1 Mohan Cooperative Ind,,,nan
+1357,Brij Puri,,,nan
+1358,Brijwasan,,,nan
+1359,Budh Bazar Road,,,nan
+1360,Budh Vihar Phase I,,,nan
+1361,Budhela Village,,,nan
+1362,Bunker Colony,,,nan
+1363,Bunker Colony Ashok Vihar IV,,,nan
+1364,C Block Greater Kailash,,,nan
+1365,C9 C10,,,nan
+1366,CC Colony,,,nan
+1367,Central Market Lajpat Nagar II,,,nan
+1368,CGHS,,,nan
+1369,Chander Vihar Nilothi,,,nan
+1370,Chandu Park,,,nan
+1371,Chatri Wala Kuan,,,nan
+1372,Chatta Lal Miya,,,nan
+1373,Chauhan Patti,,,nan
+1374,Chawri Bazar,,,nan
+1375,Church Lane,,,nan
+1376,Church Road,,,nan
+1377,Clock Tower,,,nan
+1378,Colonelganj,,,nan
+1379,Commercial Shop Indra Park,,,29761.9
+1380,Conductor Colony,,,nan
+1381,Connaught Lane,,,nan
+1382,CP Block Road,,,nan
+1383,CVD Line,,,nan
+1384,D B Gupta Road,,,15428.57
+1385,D Block,,,nan
+1386,D D A Apartment Road,,,nan
+1387,D3 Street,,,23333.33
+1388,Dabri Palam Road,,,nan
+1389,Dadri Main Road,,,nan
+1390,Dakshin Puri,,,nan
+1391,Dallupura Road,,,nan
+1392,Dayalpur Extension,,,nan
+1393,Dayanand Vihar,,,nan
+1394,DBlock,,,nan
+1395,DDA Flats,,,18888.89
+1396,DDA Park Nihal Vihar,,,nan
+1397,Delhi Gate,,,nan
+1398,Delhi Gate Road,,,nan
+1399,Delhi Haridwar Road,,,4363.64
+1400,Delhi High Court,,,nan
+1401,Delhi Metro Blue Line,,,10454.55
+1402,Delhi Metropolitan Area Bhawan,,,nan
+1403,Delhi Omicron 1A,,,nan
+1404,Delhi University,,,nan
+1405,Delhi University Ground,,,nan
+1406,Dera Village,,,nan
+1407,Desh Bandhu Gupta Marg,,,11125
+1408,Dharampura,,,nan
+1409,Dhaula Kuan,,,nan
+1410,Dilshad Colony New Simapuri,,,12241.05
+1411,Dr Ambedkar Nagar,,,nan
+1412,Durga Ashram Road,,,nan
+1413,Durga Vihar New Delhi,,,3571.43
+1414,Dwarka 29 Sector,,,3975.63
+1415,Dwarka Flyover,,,9714.29
+1416,Dwarka sec 21,,,3800
+1417,dwarka sec3,,,8333.33
+1418,Dwarka Sec6 Market,,,8857.14
+1419,Dwarka Sector 12 Pocket 6,,,7500
+1420,Dwarka sector 23 Pocket 1,,,10584.62
+1421,Dwarka Sector 25,,,3800
+1422,Dwarka Sector 9 Road,,,9250
+1423,East Block Extension Road,,,nan
+1424,East Rohtas Nagar Delhi,,,nan
+1425,EBlock,,,nan
+1426,Engineers Enclave Harsh Vihar,,,nan
+1427,EPDP Colony,,,7764.71
+1428,Fajalpur Village,,,11000
+1429,Fatehpur Beri,,,nan
+1430,Feroze Gandhi Road,,,nan
+1431,Forest Lane,,,nan
+1432,G T Karnal Road,,,nan
+1433,Gafoor Nagar,,,nan
+1434,Gali Number 14,,,nan
+1435,Gali Number 22,,,nan
+1436,Gali Number 9,,,nan
+1437,Gandhi Park,,,nan
+1438,Ganesh Nagar I South,,,nan
+1439,ganesh nagar tilak nagar,,,nan
+1440,Ganga Ram Vatika,,,nan
+1441,Garhwal Colony,,,nan
+1442,Garwali Mohalla,,,nan
+1443,Garwali Mohalla Narayan Nagar,,,nan
+1444,GBlock,,,nan
+1445,Gharoli Dairy Farm,,,10464.43
+1446,Gharoli Main Road,,,nan
+1447,Gitanjali Enclave,,,nan
+1448,Gobindpuri,,,nan
+1449,Godavari Apartments,,,11764.71
+1450,Gole Market,,,nan
+1451,Goyla Vihar,,,13888.89
+1452,Grand Trunk Road,,,1582.8
+1453,Greater Kailash I Block E,,,nan
+1454,Green Park Extension Road,,,nan
+1455,GTB Enclave,,,nan
+1456,Gulabi Bagh,,,nan
+1457,Guru Nanak Nagar Extension,,,nan
+1458,Guru Ram Dass Nagar,,,nan
+1459,Gurugram Bajghera Nazafgarh Ro,,,nan
+1460,H a u z Khas Fort Road,,,nan
+1461,Haidarpur,,,nan
+1462,Haiderpur,,,nan
+1463,Hakikat Nagar,,,nan
+1464,Hanuman Road,,,nan
+1465,Hardev Nagar Street,,,nan
+1466,Hargobind Enclave New Delhi,,,nan
+1467,Hari Kothi Lane,,,nan
+1468,Harian Basti,,,nan
+1469,Harit Vihar,,,nan
+1470,Hastsal Vihar Delhi,,,nan
+1471,Hauz Khas Block Q,,,nan
+1472,Hauz Qazi,,,nan
+1473,HU Block,,,nan
+1474,Hudson Lane,,,nan
+1475,Ignou Road  Sainik Farm,,,nan
+1476,Ignou Road Sainik Farm,,,2962.96
+1477,IIT Delhi Main Road,,,nan
+1478,Independent House Uttam Nagar,,,nan
+1479,Inder Enclave,,,10344.83
+1480,Inderlok,,,nan
+1481,Indira Vihar,,,nan
+1482,Industrial Land and Building O,,,nan
+1483,Infinity Road,,,nan
+1484,Institutional Area,,,nan
+1485,Ishwar Colony,,,nan
+1486,Iskcon Temple Road,,,nan
+1487,ITO,,,nan
+1488,J Block,,,nan
+1489,Jagdamba Camp,,,11111.11
+1490,Jagdamba Vihar West Sagarpur,,,nan
+1491,Jai Vihar Najafgarh Road,,,nan
+1492,Jain Mandir Road,,,nan
+1493,Jain Mohalla Seelampur,,,nan
+1494,Janta Colony,,,nan
+1495,Janta Vihar,,,nan
+1496,Jawahar Park Shalimar Garden,,,nan
+1497,jeewan nagar,,,nan
+1498,Jharoda,,,nan
+1499,Jhilmil Colony Industrial Area,,,nan
+1500,Jhilmil Colony Vivek Vihar II,,,nan
+1501,Jhulelal Mandir Marg,,,nan
+1502,JJ Colony,,,nan
+1503,JJ Colony Wazirpur,,,nan
+1504,Junapur Village,,,nan
+1505,Kadipur,,,nan
+1506,Kailash Kunj,,,nan
+1507,Kailash Puri,,,nan
+1508,Kalyanpuri,,,nan
+1509,Kanjhawala Village,,,nan
+1510,Kapas Hera Estate,,,3200
+1511,Kapashera Estate Road,,,nan
+1512,Karawal Nagar Main Road,,,nan
+1513,Karkar Duma Delhi,,,nan
+1514,Kashmiri Bagh,,,nan
+1515,Khajuri Khas,,,nan
+1516,Khan Market,,,nan
+1517,Khanpur Dhani,,,8431.37
+1518,Khari Baoli,,,4878.05
+1519,Khari Baoli Road,,,2808.4
+1520,Khera Dabar,,,nan
+1521,Kingsway Camp,,,nan
+1522,Kishan Ganj,,,nan
+1523,Kondali Main,,,5625
+1524,Kotla,,,nan
+1525,Krishna Park Extension,,,nan
+1526,Kucha Pati Ram,,,nan
+1527,Kushak No 2,,,nan
+1528,Lajpat Nagar Metro Station,,,nan
+1529,Lajwanti Garden,,,nan
+1530,LIC Colony,,,nan
+1531,Link Road IP Extension,,,5483.87
+1532,Lodhi Road Quarters,,,9523.81
+1533,M Block Greater Kailash I,,,nan
+1534,M G Road,,,nan
+1535,M.B. Road,,,nan
+1536,Madanpur Dabas,,,nan
+1537,Mahaveer Nagar Kotla Mubarakpu,,,24429.97
+1538,Mahavir Enclave I Mahavir Encl,,,nan
+1539,Mahavir Vihar,,,nan
+1540,Mahindra Park,,,nan
+1541,Mahipalpur Rangpuri Road,,,2820.51
+1542,Mahrauli,,,3518.52
+1543,Main Mathura Road,,,nan
+1544,Main Sainik Enclave Road,,,nan
+1545,Major Bhola Nath Colony,,,nan
+1546,Major District Road 123,,,nan
+1547,manaskunj,,,nan
+1548,Manohar Nagar,,,nan
+1549,Masjid Moth Phase 2,,,10769.23
+1550,Masjid Moth Road,,,nan
+1551,Mayapuri Industrial Area II,,,nan
+1552,Mayapuri Industrial Area Phase,,,nan
+1553,Mayur Vihar Phase1,,,nan
+1554,Meenakshi Garden,,,12213.74
+1555,Mitraon,,,nan
+1556,Model Town Phase3,,,nan
+1557,Mohammadpur,,,nan
+1558,Mohan Baba Nagar New Delhi,,,nan
+1559,Mori Gate,,,nan
+1560,Moti Bagh Industrial Area,,,nan
+1561,Mukerjee Park,,,nan
+1562,Mukherji Park New Delhi,,,nan
+1563,Mukund Vihar Road,,,nan
+1564,Nagli Vihar Extn I,,,nan
+1565,Najafgarh Dhansa Road,,,nan
+1566,Najafgarh Nangloi Road,,,nan
+1567,Namdhari Colony,,,nan
+1568,Nanakpura,,,nan
+1569,Nand Ram Park Delhi,,,nan
+1570,Nand Vihar,,,nan
+1571,Nangal Dewat Road,,,nan
+1572,Nangli Vihar,,,nan
+1573,Nangloi Extension,,,nan
+1574,Nangloi Saiyed Village,,,5491.7
+1575,Naradana,,,nan
+1576,Narain Vihar,,,nan
+1577,Naraina Village,,,nan
+1578,Narela Mandi,,,nan
+1579,Nasirpur Road,,,nan
+1580,Nathupur Road,,,10000
+1581,Nathupura,,,nan
+1582,Neb Valley,,,nan
+1583,Nehru Enclave East,,,nan
+1584,Nehru Nagar Footover Bridge,,,nan
+1585,Nelson Mandela Marg,,,20000
+1586,New Ashok Nagar Road,,,nan
+1587,New Basti,,,nan
+1588,New Colony,,,nan
+1589,New Colony Khirki Extension,,,nan
+1590,New Govindpura,,,6666.67
+1591,New Jaffrabad,,,nan
+1592,New Krishna Nagar,,,5000
+1593,New Moti Nagar,,,nan
+1594,New Pragatesheel Apartment,,,7586.21
+1595,Nilothi Extn,,,nan
+1596,Nirmal Vihar,,,nan
+1597,Niti Vihar,,,nan
+1598,Noida Link Road,,,nan
+1599,Northern Peripheral Road,,,6372.09
+1600,Okhla Industrial Estate Phase ,,,nan
+1601,Okhla Road,,,nan
+1602,Old Delhi Gurgaon Road,,,nan
+1603,Old Janki Puri,,,nan
+1604,Old Khaira Road,,,nan
+1605,Old Roshanpura Delhi,,,nan
+1606,Om Vihar Extension Om Vihar,,,nan
+1607,Om Vihar Extn Om Vihar,,,4943.75
+1608,Om Vihar Link Road,,,nan
+1609,Om Vihar Phase 4,,,4750
+1610,Palam Colony Raj Nagar 1,,,nan
+1611,Palam Vihar Bijwasan Road,,,nan
+1612,Palam Village,,,nan
+1613,Panchsheel Garden Naveen Shahd,,,nan
+1614,Panchsheel Marg,,,nan
+1615,Panchsheel Park Block N,,,nan
+1616,Panchsheel Park North,,,nan
+1617,Pandit Park,,,nan
+1618,Pandwala Kalan Road,,,nan
+1619,Pansali Village,,,nan
+1620,Parliament Street,,,nan
+1621,Part 1,,,nan
+1622,Part 2,,,nan
+1623,Paryatan Vihar,,,9671.18
+1624,Patel Garden,,,nan
+1625,Pervesh Nagar,,,nan
+1626,Phase 1 Om Vihar,,,nan
+1627,Phase 5 Om Vihar,,,nan
+1628,Phase 6 Aya Nagar Extension,,,nan
+1629,Phase I,,,nan
+1630,Plot Alpha Sahibabad Industria,,,nan
+1631,Pocket 1 Sector 25,,,nan
+1632,Pocket 1 Sector C,,,nan
+1633,Pocket 1 Sector D,,,nan
+1634,Pocket 10 Sector B,,,18000
+1635,Pocket 10B,,,nan
+1636,Pocket 5 Sector C,,,nan
+1637,Pocket 52,,,nan
+1638,Pocket 6 Sector 2,,,12500
+1639,Pocket 6 Sector C,,,nan
+1640,Pocket 8 Sector D,,,nan
+1641,Pocket 8 Sector24,,,nan
+1642,Pocket 9,,,16250
+1643,Pocket 9 Sector B,,,8181.82
+1644,Pocket A Sector 17,,,nan
+1645,Pocket A Sector 17 Dwarka,,,8181.82
+1646,Pocket B and C,,,nan
+1647,Pocket C SectorA,,,nan
+1648,Pocket DG 2,,,nan
+1649,Pocket GH2 District Park,,,nan
+1650,Pocket3 Sector24,,,nan
+1651,Police Lines,,,18181.82
+1652,Polo Garden Road,,,nan
+1653,Pontoon Bridge,,,80000
+1654,Poorti Apartments,,,nan
+1655,Poorvi Shalimar Bagh,,,nan
+1656,Prakash Mohalla Amritpuri,,,nan
+1657,Prem Narain Road,,,nan
+1658,Prem Vihar,,,nan
+1659,Prime Chowk,,,8823.53
+1660,Pundrik Vihar,,,nan
+1661,Punjabi Bagh Apartment,,,nan
+1662,Punjabi Market Road,,,nan
+1663,Pusa Road,,,nan
+1664,Pushp Vihar,,,nan
+1665,Pushta Road,,,nan
+1666,Puth Khurd Village,,,3428.57
+1667,Qazi ka Bagh Desu Colony,,,nan
+1668,Qutub Minar Metro Station,,,nan
+1669,Qutub Vihar Phase 2,,,nan
+1670,R Block Rajender Nagar Part 1,,,nan
+1671,Radhey Shyam Park Extension,,,nan
+1672,Railway Colony,,,nan
+1673,Raj Nagar Extension,,,nan
+1674,Raja Park,,,nan
+1675,Rajapuri East,,,nan
+1676,Rajhans Vihar,,,nan
+1677,Raju Parak Extension,,,nan
+1678,Ram Colony Chattarpur,,,5555.56
+1679,Ram Kumar Marg,,,nan
+1680,Ram Prastha Colony,,,nan
+1681,Ramphal Chowk Road,,,nan
+1682,Rampura Marg,,,9259.26
+1683,Rangpuri,,,nan
+1684,Ranhola Extesion,,,nan
+1685,Rani Jhansi Road,,,nan
+1686,Ratiya Marg,,,nan
+1687,Red Cross Road,,,nan
+1688,Rentz Place,,,nan
+1689,Residential Flat Dharam Pura,,,3259.81
+1690,Residential Flat East of Kaila,,,11555.56
+1691,Residential Flat Pocket A,,,2800
+1692,Residential Flat Pocket D,,,2777.78
+1693,Residential Flat Uttam Nagar,,,3777.78
+1694,Residential Floor Drayaganj,,,5149.79
+1695,Residential Floor East Ram Nag,,,5288.16
+1696,Residential Floor Om Vihar,,,3442.13
+1697,Residential Floor Ram Nagar,,,3790.38
+1698,Residential Floor Tilak Nagar,,,4582.82
+1699,Residential Floor Uttam Nagar,,,4382.47
+1700,Residential FloorBlockA sector,,,841.24
+1701,Residential FloorPaschim Vihar,,,8131.84
+1702,Residential House New Delhi,,,nan
+1703,Residential House Uttam Nagar,,,2812.5
+1704,Residential HouseChittaranjan ,,,nan
+1705,Rewla Khanpur,,,nan
+1706,Rishabh Vihar Karkardooma,,,nan
+1707,Road Leading to Mehrauli Marke,,,nan
+1708,Road Number 1,,,6646.97
+1709,Road Number 8,,,nan
+1710,Rocky Area,,,3333.33
+1711,Rohini Avantika,,,nan
+1712,Rohini Vijay Vihar,,,nan
+1713,Rohit Kunj,,,nan
+1714,Rohit Kunj Sandesh Vihar,,,nan
+1715,S S Mota Singh Marg,,,nan
+1716,Sabzi Mandi Old,,,nan
+1717,Sadar Bazar,,,nan
+1718,Sadhna Enclave,,,nan
+1719,Sagarpur East,,,nan
+1720,Sagarpur Palam Road,,,22222.22
+1721,Saini Enclave,,,nan
+1722,Saket Road,,,nan
+1723,Samman Bazar Bhogal,,,nan
+1724,Sampla Sonepat Road,,,nan
+1725,Sanjay Gandhi Transport Nagar,,,nan
+1726,Sant Nagar Marg,,,nan
+1727,Satya Niketan,,,nan
+1728,Sawroop Nagar,,,nan
+1729,SBlock Gali,,,nan
+1730,School Lane,,,nan
+1731,sec 18 b,,,nan
+1732,SEC 6 POCKET 1,,,8750
+1733,Sector 10 Rohini,,,nan
+1734,Sector 112,,,3188.01
+1735,Sector 12 Pocket 7,,,8166.67
+1736,Sector 13,,,8750
+1737,Sector 17,,,8421.05
+1738,Sector 17 Pocket D,,,nan
+1739,Sector 17A,,,nan
+1740,Sector 18 A,,,7500
+1741,Sector 18 Rohini,,,8947.37
+1742,Sector 18B Road,,,9642.86
+1743,Sector 2,,,nan
+1744,Sector 21,,,4200
+1745,Sector 21 Dwarka New Delhi,,,8452.38
+1746,Sector 23 Road,,,9393.94
+1747,Sector 25 Dwarka,,,4368.42
+1748,Sector 26 Rohini,,,nan
+1749,Sector 29,,,nan
+1750,Sector 31 Rohini,,,nan
+1751,Sector 32 Rohini,,,nan
+1752,Sector 37,,,5241.64
+1753,Sector 38 Rohini,,,nan
+1754,Sector 3G,,,nan
+1755,Sector 41,,,nan
+1756,Sector 5 Market Pocket 1,,,nan
+1757,Sector 5 Rohini,,,nan
+1758,Sector 50,,,nan
+1759,Sector 56,,,nan
+1760,Sector 7A,,,nan
+1761,Sector 8,,,nan
+1762,Sector B,,,17142.86
+1763,Sector C Pocket 8,,,nan
+1764,Sector D1,,,nan
+1765,Sector-20 Rohini,,,nan
+1766,Sector21 Rohini,,,nan
+1767,Sector8 Rohini,,,nan
+1768,Seth Sarai,,,nan
+1769,Shadipur Metro Station,,,nan
+1770,Shahbad Daulatpur Village,,,nan
+1771,Shakti Khand 3,,,nan
+1772,Shalimar Bagh AG Block,,,nan
+1773,Shalimar Park,,,nan
+1774,Sham Nagar,,,nan
+1775,Shankar Garden,,,10540.54
+1776,Shankar Road,,,nan
+1777,Shanti Park,,,nan
+1778,Sharda Puri,,,nan
+1779,Sheikh Sarai II,,,nan
+1780,Sheikh Sarai Inner Lane,,,16206.9
+1781,Shiv Colony New Delhi,,,nan
+1782,Shiv Park,,,nan
+1783,Shivaji Enclave,,,nan
+1784,SHIVAJI VIHAR,,,nan
+1785,Shooting Range Road,,,nan
+1786,Shubham Enclave Paschim vihar,,,nan
+1787,Shukkar Bazar Road,,,nan
+1788,Shyam Kunj,,,nan
+1789,Shyam Nagar,,,nan
+1790,Shyam Park Delhi,,,nan
+1791,Shyam Vihar II,,,nan
+1792,Siddharth Enclave,,,12500
+1793,Siddhartha Enclave,,,11818.18
+1794,Siddhartha Extension,,,9200
+1795,Sidhartha Nagar,,,nan
+1796,Sidhatri Enclave,,,nan
+1797,Som Bazar Road,,,nan
+1798,Sonia Vihar Extension,,,nan
+1799,Sonia Vihar Pushta Road,,,nan
+1800,Srinagar Garden,,,nan
+1801,State Bank Colony,,,nan
+1802,Street Number 3,,,nan
+1803,Street Number 4,,,nan
+1804,Subhash Street,,,nan
+1805,Sudershan Park,,,nan
+1806,Sukkar Bazar Road,,,nan
+1807,Supreme Enclave,,,nan
+1808,Suraj Vihar,,,5625
+1809,Surya Nagar,,,nan
+1810,Sushant Vihar,,,3499.69
+1811,Swami Shradhanand Marg,,,nan
+1812,Swami Vivekananda Road,,,nan
+1813,Swaroop Nagar Extension,,,nan
+1814,Swarup Nagar,,,nan
+1815,Swatantra Nagar,,,nan
+1816,Tara Nagar,,,nan
+1817,Teachers Colony,,,nan
+1818,Telibara,,,5333.33
+1819,Tikona Park Road,,,nan
+1820,Tikri Kalan,,,nan
+1821,Tilangpur Kotla,,,nan
+1822,Timarpur,,,916.39
+1823,Tomur Colony,,,nan
+1824,Tooth Sarai,,,nan
+1825,Tughlaqabad Village,,,nan
+1826,Umar Masjid Road,,,nan
+1827,V e e r Apartments Road,,,8387.1
+1828,Vasant Enclave Road,,,12000
+1829,Vasundhra CGHS,,,nan
+1830,Vigyan Vihar,,,nan
+1831,Vijay Mandal Enclave,,,12500
+1832,Vijay Nagar Road,,,nan
+1833,Vijay Park,,,nan
+1834,Vijay Vihar Phase I,,,nan
+1835,Vikas Kunj,,,nan
+1836,Vikaspuri Flyover,,,7222.22
+1837,Virat Marg,,,nan
+1838,Vishwas Park Extn Jain Colony,,,nan
+1839,Vivek Vihar Phase II Delhi,,,nan
+1840,Wazir Nagar,,,nan
+1841,Wazirabad Road,,,nan
+1842,West End Colony,,,nan
+1843,West Patel Nagar Road,,,nan
+1844,West Rohtash Nagar,,,nan
+1845,West Shalimar Bagh,,,nan
+1846,Western Avenue Sainik,,,nan
+1847,Yamuna Vihar,,,nan
+1848,Yusuf Sarai,,,nan
+1849,1 Lane Johri Farm,,,nan
+1850,1 Palam Village Road,,,nan
+1851,105 Sector 22 Road,,,nan
+1852,106 Sector 22 Road,,,nan
+1853,110 Sector 22 Road,,,nan
+1854,34 b Golden Enclave,,,nan
+1855,40 Feet Road,,,nan
+1856,47 Sector 22 Road,,,nan
+1857,60 Feet Road,,,nan
+1858,65 Sector 22 Road,,,nan
+1859,77 Sector 6 Road,,,nan
+1860,92 Sector 22 Road,,,nan
+1861,A 1 Block,,,nan
+1862,A 2 Block,,,nan
+1863,A 6 Block,,,nan
+1864,A z a d Nagar Road,,,nan
+1865,A1 Block Road,,,nan
+1866,A2 Janak Puri,,,nan
+1867,A5 Block,,,nan
+1868,ABlock Main Road,,,nan
+1869,Abul Fazal Enclave II New Delh,,,nan
+1870,Abul Fazal Part II,,,nan
+1871,Abul Fazal Road,,,nan
+1872,AC Block Shalimar Bagh,,,nan
+1873,AD Block Pitampura,,,nan
+1874,AD Block Shalimar Bagh,,,nan
+1875,Adarsh Enclave,,,nan
+1876,Adarsh Nagar Extension,,,nan
+1877,Adhchini Village,,,nan
+1878,Adhchini Village Road,,,nan
+1879,Adhyapak Nagar,,,nan
+1880,Adhyapak Nagar Delhi,,,nan
+1881,Aditi Apartments,,,nan
+1882,Ahinsha Enclave,,,nan
+1883,AIIMS Campus,,,nan
+1884,Air India Colony,,,nan
+1885,Airforce Station,,,nan
+1886,Ajay Enclave,,,nan
+1887,Ajit Nagar,,,nan
+1888,Ajit Vihar,,,nan
+1889,Akbarpur Majra,,,nan
+1890,Akshardham Temple,,,nan
+1891,Alampur,,,nan
+1892,Aligarh,,,nan
+1893,Aman Vihar,,,nan
+1894,amar colony e block,,,nan
+1895,amar colony market,,,nan
+1896,Amar Vihar,,,nan
+1897,Ambedkar Nagar,,,nan
+1898,Ambedkar Place,,,nan
+1899,Ambience Island DLF Phase 3,,,nan
+1900,Ambika Enclave,,,nan
+1901,Ambika Enclave Delhi,,,nan
+1902,Ambrahi Village,,,nan
+1903,Amrita Shergill Marg,,,nan
+1904,Anand Kunj,,,nan
+1905,Anand Parbat Industrial Area,,,nan
+1906,Anant Ram Dairy,,,nan
+1907,Anarkali Colony,,,nan
+1908,Anarkali Colony North,,,nan
+1909,Anarkali Colony South,,,nan
+1910,Ankur Enclave,,,nan
+1911,Ansal Villas,,,nan
+1912,Ansari Nagar East,,,nan
+1913,Ansari Nagar West,,,nan
+1914,Ansari Road,,,nan
+1915,Anup Nagar Delhi,,,nan
+1916,Aram Park,,,nan
+1917,Arjun Gali,,,nan
+1918,Arjun Park,,,nan
+1919,Arjun Vihar,,,nan
+1920,Arsiwalla Villa,,,nan
+1921,Arya Pura,,,nan
+1922,Asaf Ali Road,,,nan
+1923,Asalatpur Khadar,,,nan
+1924,Asalatpur Village,,,nan
+1925,Asha Park,,,nan
+1926,Ashok Nagar Extension,,,nan
+1927,Ashok Nagar Mandoli,,,nan
+1928,Ashok Vihar II,,,nan
+1929,Asola,,,nan
+1930,Asola Extention,,,nan
+1931,Asola Farm Road,,,nan
+1932,Asola Farms,,,nan
+1933,Asola Wild Life Sanctuary,,,nan
+1934,Aurbindo,,,nan
+1935,Aurobindo Marg,,,nan
+1936,Aurungzeb Road,,,nan
+1937,Avantika Delhi,,,nan
+1938,Avantika New Delhi,,,nan
+1939,Avatar Vihar,,,nan
+1940,Avenue Number 4,,,nan
+1941,Awas Vikas,,,nan
+1942,Aya Nagar Baba Mohalla,,,nan
+1943,Aya Nagar Bandh Road,,,nan
+1944,Aya Nagar Extension,,,nan
+1945,Aya Nagar Extension G Block,,,nan
+1946,Aya Nagar Extn,,,nan
+1947,Ayur Vigyan Nagar,,,nan
+1948,Ayurvigyan Nagar,,,nan
+1949,Azad Nagar,,,nan
+1950,Azad Nagar East,,,nan
+1951,Azad Nagar West,,,nan
+1952,B 2 Block,,,nan
+1953,B 7,,,nan
+1954,B a n k Enclave Road,,,nan
+1955,B1 Road,,,nan
+1956,B2A Block Block B 2B,,,nan
+1957,B3,,,nan
+1958,B5 Road,,,nan
+1959,B6,,,nan
+1960,Baba Colony,,,nan
+1961,Baba Farid Puri,,,nan
+1962,Baba Mohalla,,,nan
+1963,Babarpur Village,,,nan
+1964,Babu Nagar,,,nan
+1965,Bada Hindu Rao Road,,,nan
+1966,Badam Singh Market,,,nan
+1967,badhwar apartment,,,nan
+1968,Badiwala Kua,,,nan
+1969,Bagem Pur,,,nan
+1970,Bagh Kare Khan,,,nan
+1971,Baghpat Road,,,nan
+1972,Bahadur Shah Zafar Marg,,,nan
+1973,BAHAWALPUR APARTMENT,,,nan
+1974,Bajaj Enclave,,,nan
+1975,Bajitpur Thakran,,,nan
+1976,Bakarwala,,,nan
+1977,Bakhtawar Pur Village,,,nan
+1978,Bakkar Wala Colony,,,nan
+1979,Balbir Nagar,,,nan
+1980,Balbir Nagar Extension,,,nan
+1981,Balraj Khanna Marg,,,nan
+1982,balur appartment,,,nan
+1983,Bangali Colony West Sant Nagar,,,nan
+1984,Bangla Sahib Road,,,nan
+1985,Bank Colony,,,nan
+1986,Bankner Village,,,nan
+1987,Bans Mandi,,,nan
+1988,Bapu Dham,,,nan
+1989,Barwala Road,,,nan
+1990,Basant Gaon,,,nan
+1991,Basant Lok,,,nan
+1992,Basti Harphool Singh,,,nan
+1993,Bawana Road,,,nan
+1994,Bazar Lane,,,nan
+1995,Beadon Pura,,,nan
+1996,Begam Vihar,,,nan
+1997,Begampur Extension,,,nan
+1998,Bengali Colony,,,nan
+1999,Bengali Colony Delhi,,,nan
+2000,Beri Wala Bagh,,,nan
+2001,Bhagat Colony,,,nan
+2002,Bhagat Enclave,,,nan
+2003,Bhagat Vihar,,,nan
+2004,Bhagwan Buddha Housing Corpora,,,nan
+2005,Bhagwan Das Road,,,nan
+2006,Bhagya Vihar,,,nan
+2007,Bharat Vihar Road,,,nan
+2008,Bharati Artist Colony,,,nan
+2009,Bhargava Marg,,,nan
+2010,Bharola,,,nan
+2011,Bharthal Village,,,nan
+2012,Bhawana Colony,,,nan
+2013,Bhawani Kunj New Delhi,,,nan
+2014,Bhera Enclave,,,nan
+2015,Bhikaji Cama,,,nan
+2016,Bhikaji Cama Place,,,nan
+2017,Bhilswa,,,nan
+2018,Bhim Basti,,,nan
+2019,Bhim Nagri,,,nan
+2020,Bhism Pitamah Road,,,nan
+2021,Bhola Nagar,,,nan
+2022,Bholanath Nagar Marg,,,nan
+2023,Bhopura,,,nan
+2024,Bhorgarh,,,nan
+2025,Biharipur,,,nan
+2026,Biharipur Extension,,,nan
+2027,Biharipur Village,,,nan
+2028,Binda Pur Road,,,nan
+2029,Bipin Chandra Pal Marg,,,nan
+2030,Bk 1 Block,,,nan
+2031,Block 34,,,nan
+2032,Block 37 Rajendra Park,,,nan
+2033,Block A 1,,,nan
+2034,Block A 1 Nauroji Nagar,,,nan
+2035,Block A 3,,,nan
+2036,Block A Lajpat Nagar 1 Road,,,nan
+2037,Block A2 Janakpuri,,,nan
+2038,Block A3,,,nan
+2039,Block AN Poorbi Shalimar Bag,,,nan
+2040,Block B G K 1,,,nan
+2041,Block B Sector 17,,,nan
+2042,Block B Shivaji Enclave,,,nan
+2043,Block B Wazirpur Industrial Ar,,,nan
+2044,Block B1,,,nan
+2045,Block BD Dakshini Pitampura,,,nan
+2046,Block BF,,,nan
+2047,Block BG 7,,,nan
+2048,Block C Road,,,nan
+2049,Block C1,,,nan
+2050,Block C2A,,,nan
+2051,Block C4F,,,nan
+2052,Block C4G Gate Number 1 Road,,,nan
+2053,Block C5C,,,nan
+2054,Block D Friends Colony East,,,nan
+2055,Block D Kailash Colony,,,nan
+2056,Block E Greater Kailash Road N,,,nan
+2057,Block E Pandav Nagar Road,,,nan
+2058,Block F Block H,,,nan
+2059,Block G Ram Nagar,,,nan
+2060,Block GH 13 GH 13,,,nan
+2061,Block GH 14,,,nan
+2062,Block GH 8,,,nan
+2063,Block H,,,nan
+2064,Block J Pushkar Enclave,,,nan
+2065,Block O,,,nan
+2066,Block Q Green Park Extension,,,nan
+2067,Block T,,,nan
+2068,Block UP Poorvi Pitampura,,,nan
+2069,Block W,,,nan
+2070,Bodella Market Budella,,,nan
+2071,Bodhraj Kohli Marg,,,nan
+2072,Brahampuri,,,nan
+2073,Brahman Mohalla,,,nan
+2074,Brahmapuri,,,nan
+2075,BSF Camp Chawala,,,nan
+2076,BShah Zafar Marg,,,nan
+2077,Buddh Vihar,,,nan
+2078,Budella,,,nan
+2079,Budhh Vihar Market,,,nan
+2080,Budhpur,,,nan
+2081,Budhpur Bijapur Village,,,nan
+2082,Builder Apartment,,,nan
+2083,Bungalow Road,,,nan
+2084,Bunker Colony Delhi,,,nan
+2085,Burari Village Marg,,,nan
+2086,C block,,,nan
+2087,C C Colony,,,nan
+2088,C P Block Road,,,nan
+2089,C1A Block,,,nan
+2090,C2C Block,,,nan
+2091,C2D Road,,,nan
+2092,C4B BLOCK,,,nan
+2093,Cariappa Marg,,,nan
+2094,cc block hari nagar,,,nan
+2095,CGHS Colony,,,nan
+2096,Chaman Park,,,nan
+2097,Chaman Vihar,,,nan
+2098,Chanakya Place II,,,nan
+2099,Chanchal Park,,,nan
+2100,Chand Bagh,,,nan
+2101,Chand Nagar,,,nan
+2102,Chand Vihar,,,nan
+2103,Chandan Hola,,,nan
+2104,Chandan Vihar,,,nan
+2105,Chander Lok,,,nan
+2106,Chander Nagar,,,nan
+2107,Chander Nagar Street,,,nan
+2108,Chander Vihar,,,nan
+2109,Chander Vihar,,,nan
+2110,Chander Vihar Main,,,nan
+2111,Chanderlok,,,nan
+2112,Chandni Mahal,,,nan
+2113,Chandra Nagar,,,nan
+2114,Chandra Shekhar Azad Colony,,,nan
+2115,Chaukhandi,,,nan
+2116,Chaukhandi Road,,,nan
+2117,Chetan Vihar Block Z,,,nan
+2118,Chhajjupur,,,nan
+2119,Chhatarpur Enclave Phase 2,,,nan
+2120,ChhawlaGoyala Road,,,nan
+2121,Chhoti Subji Mandi,,,nan
+2122,Chikamberpur Village,,,nan
+2123,Chirag Delhi Main Road,,,nan
+2124,Chitla Gate,,,nan
+2125,Chokhandi,,,nan
+2126,Chowk Nai Basti,,,nan
+2127,Christian Colony,,,nan
+2128,Chuna Mandi,,,nan
+2129,Church Mall Road,,,nan
+2130,Clock Tower Chowk,,,nan
+2131,Club Road,,,nan
+2132,Club Road Flyover,,,nan
+2133,Commonwealth Games Village 201,,,nan
+2134,Cooperganj,,,nan
+2135,Cottage Enclave,,,nan
+2136,D1C Block Lajwanti Garden,,,nan
+2137,D6,,,nan
+2138,Dabri Extension,,,nan
+2139,Dabri Mor Flyover,,,nan
+2140,Dabri Village,,,nan
+2141,Dada Dev Mandir Road,,,nan
+2142,Dalan Mohalla,,,nan
+2143,Dariyapur Khurd,,,nan
+2144,Daryapur,,,nan
+2145,Daryapur Road,,,nan
+2146,Dasghara,,,nan
+2147,Dayal Bagh,,,nan
+2148,Dayalpur,,,nan
+2149,DCM Railway Colony,,,nan
+2150,DDA Colony,,,nan
+2151,dda flat sec 13 a,,,nan
+2152,DDA Flats,,,nan
+2153,DDA FLATS KHIRKI,,,nan
+2154,Dda lig flats pocket c molarba,,,nan
+2155,DDA Market,,,nan
+2156,dda mult sec 18,,,nan
+2157,DDA PLOTS DWARKA,,,nan
+2158,DDAFlat Road,,,nan
+2159,Deep Enclave,,,nan
+2160,Deep Vihar,,,nan
+2161,Deep Vihar,,,nan
+2162,Deepak Vihar,,,nan
+2163,Deepali,,,nan
+2164,Deepali Tarun Sharda Niketan,,,nan
+2165,Deepanjali,,,nan
+2166,Deer Park,,,nan
+2167,Defence Enclave,,,nan
+2168,Delhi Avenue,,,nan
+2169,Delhi Bypass Road,,,nan
+2170,Delhi Chauma Village,,,nan
+2171,Delhi Cove,,,nan
+2172,Delhi Drive,,,nan
+2173,DELHI DWARKA,,,nan
+2174,Delhi Gaur City 1,,,nan
+2175,Delhi Kolkata Highway,,,nan
+2176,Delhi Mathura Road,,,nan
+2177,Delhi Metropolitan Area,,,nan
+2178,Delhi Public School Road,,,nan
+2179,Delhi Rasoolpur Nawada,,,nan
+2180,Delhi Road,,,nan
+2181,Delhi Technological University,,,nan
+2182,Delhi Udyog Vihar Phase IV,,,nan
+2183,Delhi Wave City Center,,,nan
+2184,DelhiFaridabad Metro,,,nan
+2185,DelhiMeerut Road,,,nan
+2186,Desu Colony,,,nan
+2187,Desu Colony,,,nan
+2188,Dev Kunj,,,nan
+2189,Dev Nagar,,,nan
+2190,Devika Towers,,,nan
+2191,DG 2 Road,,,nan
+2192,Dhakka Extension Road,,,nan
+2193,Dhansa Road,,,nan
+2194,Dharam Colony Delhi,,,nan
+2195,Dhimar Mohalla Madanpur Khadar,,,nan
+2196,Dhirpur,,,nan
+2197,Dhirpur Village,,,nan
+2198,Dichaon Kalan,,,nan
+2199,Dichaon Kalan Hiran Kudna Road,,,nan
+2200,dilli vaas,,,nan
+2201,Dilshad Garden Pocket E,,,nan
+2202,Dindarpur,,,nan
+2203,Dindarpur Shanti Vihar,,,nan
+2204,Dinpur Lal Dora Extn Dinpur La,,,nan
+2205,DIZ Area,,,nan
+2206,DLF 3 Phase,,,nan
+2207,DLF City Phase III,,,nan
+2208,DLF Phase 1,,,nan
+2209,DLF Prashant Vihar,,,nan
+2210,DMRC,,,nan
+2211,Doctor Jose P Rizal Marg,,,nan
+2212,Doctor KN Katju Marg,,,nan
+2213,Double Storey,,,nan
+2214,Dr Lohia Industrial Area,,,nan
+2215,Dr. Ambedkar Nagar,,,nan
+2216,DSIDC Industrial Area Narela,,,nan
+2217,Duggal Housing,,,nan
+2218,Dundahera Road,,,nan
+2219,Durga Mandir Marg,,,nan
+2220,Durga Park,,,nan
+2221,Durga Park Colony,,,nan
+2222,Durga Vihar,,,nan
+2223,Durgapuri Extension Delhi,,,nan
+2224,DVB Colony,,,nan
+2225,Dwarka 12 Sector,,,nan
+2226,Dwarka Extension,,,nan
+2227,Dwarka Extension Delhi,,,nan
+2228,Dwarka Goyla Dairy Road,,,nan
+2229,Dwarka L Zone,,,nan
+2230,Dwarka Link Road,,,nan
+2231,DWARKA MOR RAMA PARK,,,nan
+2232,Dwarka sec 23 Near Emabassy,,,nan
+2233,dwarka sec19 bharat vadna apt,,,nan
+2234,Dwarka Sector 1 Pocket 2,,,nan
+2235,dwarka sector 2,,,nan
+2236,Dwarka Sector 26,,,nan
+2237,Dwarka Sector 9 Pocket 2,,,nan
+2238,E a s t Block Extension Road,,,nan
+2239,East Babarpur,,,nan
+2240,East Delhi Extension,,,nan
+2241,East Gokalpur,,,nan
+2242,East Gokulpur,,,nan
+2243,East Kidwai Nagar,,,nan
+2244,East Krishna Nagar,,,nan
+2245,East Moti Bagh,,,nan
+2246,East Nathu Colony,,,nan
+2247,East of Kailash G Block,,,nan
+2248,East Park Road,,,nan
+2249,East Punjabi Bagh Manohar Park,,,nan
+2250,East Ram Nagar,,,nan
+2251,East Rohtas Nagar,,,nan
+2252,East Sadatpur Extension,,,nan
+2253,Ekta Enclave,,,nan
+2254,ELDECO Green City,,,nan
+2255,Enclave 3,,,nan
+2256,Engineer Enclave,,,nan
+2257,Engineers Enclave Delhi,,,nan
+2258,Eros Garden,,,nan
+2259,Extension Colony,,,nan
+2260,F Block Raj Nagar Part 2,,,nan
+2261,F i r e Brigade Lane,,,nan
+2262,Faiz Road,,,nan
+2263,Farash Bazar,,,nan
+2264,Fashion Street,,,nan
+2265,Fatehpuri,,,nan
+2266,Fetehpur Beri,,,nan
+2267,Fine Home Apartments,,,nan
+2268,Firozeshah Road,,,nan
+2269,Furnished apartment,,,nan
+2270,Gacharya Kriplani Road,,,nan
+2271,Gadpur Farm,,,nan
+2272,Gaffar Manzil Extension New De,,,nan
+2273,Gaffar Manzil Extn,,,nan
+2274,Gali No 16,,,nan
+2275,Gali Number 1,,,nan
+2276,Gali Number 3rd,,,nan
+2277,Gali Number 6,,,nan
+2278,Gali Number 7,,,nan
+2279,Gandhi Colony,,,nan
+2280,Gandhi Market,,,nan
+2281,Gandhi Vihar,,,nan
+2282,Ganesh Nagar 1,,,nan
+2283,Ganesh Nagar II,,,nan
+2284,Ganeshpura,,,nan
+2285,Gang Nath Chowk,,,nan
+2286,Ganga Ram Gali,,,nan
+2287,Gangotri Apartment,,,nan
+2288,Gangotri Enclave,,,nan
+2289,Gangotri Enclave Mandakini Enc,,,nan
+2290,Gangotri Enclave Road,,,nan
+2291,Garhi Jharia Maria,,,nan
+2292,Gari Extension,,,nan
+2293,Gautam Colony,,,nan
+2294,GB Road,,,nan
+2295,GD Block Dakshini Pitampura,,,nan
+2296,Geetanjali,,,nan
+2297,GH 13,,,nan
+2298,GH 13 Ambica Vihar,,,nan
+2299,GH 14,,,nan
+2300,GH9 Block,,,nan
+2301,Ghaffar Manzil Colony,,,nan
+2302,Gharoli Extension,,,nan
+2303,Ghonda,,,nan
+2304,Ghondli Village,,,nan
+2305,Giri Nagar,,,nan
+2306,Gobind Mohalla,,,nan
+2307,Gokalpuri,,,nan
+2308,Gokul Puri,,,nan
+2309,Gold Valley Sector D,,,nan
+2310,Golf Club,,,nan
+2311,Golf Link 1,,,nan
+2312,Gooba Gardens,,,nan
+2313,Gopal Nagar Extension,,,nan
+2314,Gopal Nagar Extn,,,nan
+2315,Gopalpur Village,,,nan
+2316,Gopi Nath Bazar,,,nan
+2317,Gorakh Park East,,,nan
+2318,Gorakh Park West,,,nan
+2319,Govind Mohalla Haiderpur,,,nan
+2320,Govind Park,,,nan
+2321,Govindpuri Extension,,,nan
+2322,Govindpuri Extension Kalkaji,,,nan
+2323,Greater kailash enclave III,,,nan
+2324,Greater Kailash N Block,,,nan
+2325,Greater Kailash Part 3,,,nan
+2326,GT Karnal Road Industrial Area,,,nan
+2327,GTB Staff Colony,,,nan
+2328,gujranwala apt vikas puri,,,nan
+2329,Gulabhi Bagh,,,nan
+2330,Gulshan Park,,,nan
+2331,gulshen eqbal,,,nan
+2332,Gurpreet Nagar,,,nan
+2333,Guru Govind Singh College,,,nan
+2334,Guru Govind Singh Road,,,nan
+2335,Guru Nanak Nagar,,,nan
+2336,Guru Teg Bahadur Nagar,,,nan
+2337,Gurudwara Kalgidhar Marg,,,nan
+2338,Gurudwara Singh Sabha Marg,,,nan
+2339,Gwal Pahari,,,nan
+2340,H 2 Sector 16,,,nan
+2341,H Block,,,nan
+2342,H Block Road,,,nan
+2343,Haider Quli,,,nan
+2344,Haji Colony,,,nan
+2345,Halar Road,,,nan
+2346,Hans Raj College Marg,,,nan
+2347,Hans Residential Colony,,,nan
+2348,Hanuman Kunj,,,nan
+2349,Hanumangarh,,,nan
+2350,Hardevpuri,,,nan
+2351,Hargobind Enclave,,,nan
+2352,Hargovind Vihar,,,nan
+2353,Hari Enclave,,,nan
+2354,Hari Ki Chakki Wali Gali,,,nan
+2355,Hari Nagar Janak Park,,,nan
+2356,Hari Nagar Pratap Nagar,,,nan
+2357,Hari Singh Park,,,nan
+2358,Hari Vihar,,,nan
+2359,Harijan Basti,,,nan
+2360,Harijan Basti,,,nan
+2361,haritage appt sec 11,,,nan
+2362,Hasanpur Village,,,nan
+2363,Hastsal Vihar,,,nan
+2364,Hastsal Village,,,nan
+2365,Hauzrani Enclave,,,nan
+2366,HIG Flats,,,nan
+2367,High Rise Society,,,nan
+2368,him vihar appartments,,,nan
+2369,HIMACHALI APARTMENT,,,nan
+2370,Himigiri Enclave,,,nan
+2371,Himmatpuri,,,nan
+2372,Hiran Kudna,,,nan
+2373,Hiranki,,,nan
+2374,Hostal Vihar,,,nan
+2375,HPL Staff Colony Jangpura A,,,nan
+2376,Huda,,,nan
+2377,Hudco Colony,,,nan
+2378,Hudco Place,,,nan
+2379,Humayunpur,,,nan
+2380,huze khas app,,,nan
+2381,Hyderabad House,,,nan
+2382,I G I Airport T3 Road,,,nan
+2383,IAA Colony,,,nan
+2384,IFCI Colony,,,nan
+2385,IGI Airport T3 Road,,,nan
+2386,Ignou Road Chhatarpur,,,nan
+2387,INA Colony,,,nan
+2388,Income Tax Colony,,,nan
+2389,Independent House Anand Niketa,,,nan
+2390,Inder Enclave Road,,,nan
+2391,India Gate,,,nan
+2392,Indian Air Lines & Air India E,,,nan
+2393,Indira Nagar,,,nan
+2394,Indra Nagar,,,nan
+2395,Indra Park,,,nan
+2396,Indra Park East Extn,,,nan
+2397,Indra Vihar I,,,nan
+2398,Indra Vikas Colony Bhai Parman,,,nan
+2399,IP Colony Indraprasth Colony,,,nan
+2400,Iradat Nagar,,,nan
+2401,Isapur Khera,,,nan
+2402,Ishwar Colony,,,nan
+2403,Islam Colony,,,nan
+2404,J Block Road,,,nan
+2405,J Extension,,,nan
+2406,Jafrabad,,,nan
+2407,Jagatpuri,,,nan
+2408,Jagdamba Vihar Delhi,,,nan
+2409,Jagjeet Nagar,,,nan
+2410,Jagpura,,,nan
+2411,jagran sector 22,,,nan
+2412,Jagrati Vihar,,,nan
+2413,Jahangirpuri Industrial Area,,,nan
+2414,Jahanpanah Monument,,,nan
+2415,Jai Bharat Encl,,,nan
+2416,Jai Vihar,,,nan
+2417,Jai Vihar Colony,,,nan
+2418,Jai Vihar Extn,,,nan
+2419,Jaidev Park,,,nan
+2420,Jain Nagar Extension,,,nan
+2421,Jain Park Om Vihar Extension,,,nan
+2422,Jal Board Colony,,,nan
+2423,Janak Park Pocket 408,,,nan
+2424,janakpuri District Center,,,nan
+2425,Jangupura Extension,,,nan
+2426,Janki Panchal Vihar,,,nan
+2427,Janta Flats,,,nan
+2428,Jatva Basti,,,nan
+2429,Jawahar Nagar,,,nan
+2430,Jawaharlal Nehru Camp,,,nan
+2431,Jawaharlal Nehru Stadium,,,nan
+2432,Jawala Nagar,,,nan
+2433,Jhajjar Road,,,nan
+2434,Jhandewalan Extn,,,nan
+2435,Jhangola,,,nan
+2436,Jhatikara,,,nan
+2437,Jheel Khurenja,,,nan
+2438,jhilmil ind area,,,nan
+2439,Jhilmil Industrial Area,,,nan
+2440,Jia Sarai,,,nan
+2441,Jia Sarai Trail,,,nan
+2442,Jitar Nagar,,,nan
+2443,JJ Colony,,,nan
+2444,JJ Colony No 2,,,nan
+2445,JJ Colony No 3,,,nan
+2446,Jogabai,,,nan
+2447,Johri Enclave,,,nan
+2448,Johripur Enclave,,,nan
+2449,Johripur Extension,,,nan
+2450,Johripur Extn.,,,nan
+2451,Joshi Colony,,,nan
+2452,Jurbagh,,,nan
+2453,Jwalapuri,,,nan
+2454,Jyoti Colony,,,nan
+2455,Jyoti Nagar,,,nan
+2456,Jyoti Nagar West,,,nan
+2457,K a l a Mandir Road,,,nan
+2458,K a l u Sarai Road,,,nan
+2459,k block Road,,,nan
+2460,K I Zone Goyla Dairy,,,nan
+2461,Kabir Nagar,,,nan
+2462,Kabool Nagar,,,nan
+2463,Kadambari Road,,,nan
+2464,Kadipur Village,,,nan
+2465,Kailash Colony Road,,,nan
+2466,Kailash Nagar,,,nan
+2467,Kailash Park,,,nan
+2468,Kailashpuri Road,,,nan
+2469,Kailashpuri West,,,nan
+2470,kailaspuri road,,,nan
+2471,Kakraula Village,,,nan
+2472,Kali Mandir Society,,,nan
+2473,Kalka Dass,,,nan
+2474,Kalka Public School Road,,,nan
+2475,Kalu Ram Chowk Road,,,nan
+2476,Kalyan Puri,,,nan
+2477,Kalyanvas,,,nan
+2478,Kamal Park,,,nan
+2479,Kamal Pur,,,nan
+2480,Kamal Vihar,,,nan
+2481,Kamla Nehru Ridge,,,nan
+2482,Kangra Niketan,,,nan
+2483,Kanhiya Nagar,,,nan
+2484,Kanjhawala,,,nan
+2485,Kanti Nagar East,,,nan
+2486,Kanti Nagar Extension Delhi,,,nan
+2487,Kanti Nagar South,,,nan
+2488,Karam Pura,,,nan
+2489,Karampura Industrial Area,,,nan
+2490,Karawal Nagar New Sabhapur,,,nan
+2491,Kardam Puri,,,nan
+2492,Kardam Puri Extension,,,nan
+2493,Karnal Bypass,,,nan
+2494,Kartar Nagar,,,nan
+2495,Kaseru Walan,,,nan
+2496,Kashmiri Gate,,,nan
+2497,Kasturba Gandhi Marg,,,nan
+2498,Kasturba Niketan,,,nan
+2499,Katra Neel,,,nan
+2500,Kaushik Enclave Delhi,,,nan
+2501,Keshavpur Vegetable Market Blo,,,nan
+2502,Kesho Ram Park,,,nan
+2503,Keshopur,,,nan
+2504,Keshopur Village,,,nan
+2505,Keshuram Park,,,nan
+2506,Kewal Park,,,nan
+2507,Kewal Park Extension,,,nan
+2508,KG 1 Road,,,nan
+2509,KG 3 Road,,,nan
+2510,KG III,,,nan
+2511,Khabas Pura,,,nan
+2512,Khandsa Colony,,,nan
+2513,Khanpur Village,,,nan
+2514,Kharkhoda Bahadurgarh Road,,,nan
+2515,Khayala,,,nan
+2516,Khazoori Khas,,,nan
+2517,Khel Gaon,,,nan
+2518,Khera Khurd Village,,,nan
+2519,Khera Village,,,nan
+2520,Khichripur,,,nan
+2521,Khidki Village,,,nan
+2522,Khoda Colony,,,nan
+2523,Khureji Khas,,,nan
+2524,Khushi Ram Park,,,nan
+2525,Khyala,,,nan
+2526,Kilokri,,,nan
+2527,Kilokri New Delhi,,,nan
+2528,Kiran Vihar Delhi,,,nan
+2529,Kishangarh Gaushala Marg,,,nan
+2530,Kishangarh Village,,,nan
+2531,Kishangarh Village SectorA,,,nan
+2532,Koil Camp,,,nan
+2533,Kolhapur Road,,,nan
+2534,Kondli Extension,,,nan
+2535,Kondli Gharoli,,,nan
+2536,Kotla Vihar Phase 2,,,nan
+2537,Kotla Village,,,nan
+2538,Krishna Apartment,,,nan
+2539,Krishna Colony,,,nan
+2540,Krishna Colony,,,nan
+2541,Kucha Chalan,,,nan
+2542,Kucha Mahajani,,,nan
+2543,Kunwar Singh Nagar,,,nan
+2544,Kurenai Village,,,nan
+2545,Kusgaon Budruk,,,nan
+2546,Kutub Golf Course,,,nan
+2547,L Zone Delhi Dwarka,,,nan
+2548,L zone dwarka new delhi,,,nan
+2549,L Zone Near Dwarka Sector 23,,,nan
+2550,L Zone Phase 2,,,nan
+2551,L-Zone,,,nan
+2552,Ladakh Budh Vihar Colony,,,nan
+2553,Lado Sarai Extension,,,nan
+2554,Ladrey Mohalla,,,nan
+2555,Lady Hardinge Medical College,,,nan
+2556,Lahore Apartment,,,nan
+2557,Lakhi Nath Kuti,,,nan
+2558,Lakhi Ram Park Delhi,,,nan
+2559,Lakhmi Nagar IT Hub,,,nan
+2560,Lakshman Park Delhi,,,nan
+2561,Lal Dora Delhi,,,nan
+2562,Lal Gumbad Basti Sadhna Enclav,,,nan
+2563,Lal Kuan Bazar,,,nan
+2564,Lal Quarter Delhi,,,nan
+2565,Lampur,,,nan
+2566,Lampur Road,,,nan
+2567,Lane H,,,nan
+2568,Lawrance Road,,,nan
+2569,Lawrence Road Colony,,,nan
+2570,Laxman Park,,,nan
+2571,Laxmi Vihar,,,nan
+2572,lhi west varinder nagarjanakpu,,,nan
+2573,Libas Pur,,,nan
+2574,LIG MIG Flats,,,nan
+2575,LIG Prasad Nagar,,,nan
+2576,Link Road,,,nan
+2577,LNT Block,,,nan
+2578,Lodhi Colony Delhi,,,nan
+2579,Lodhi Gardens,,,nan
+2580,Loha Mandi Block Y,,,nan
+2581,Loknath Puram,,,nan
+2582,Lonavala,,,nan
+2583,Lord Krishna Road,,,nan
+2584,Lotus Enclave,,,nan
+2585,Lotus Temple Road,,,nan
+2586,Low rise society,,,nan
+2587,M a i n Manglapuri Road,,,nan
+2588,M a i n Patel Road,,,nan
+2589,M a i n Road,,,nan
+2590,M a i n Surakhpur Road,,,nan
+2591,M B S Nagar,,,nan
+2592,M B S Nagar Road,,,nan
+2593,M Block New Delhi,,,nan
+2594,M K RESIDENCY APARTMENT,,,nan
+2595,M2K Marg,,,nan
+2596,Madan Park,,,nan
+2597,Madangir Camp,,,nan
+2598,Madangir Foot Overbridge,,,nan
+2599,Madhu Vihar Delhi,,,nan
+2600,Madhuban Chowk,,,nan
+2601,Madhuban Enclave,,,nan
+2602,Madipur,,,nan
+2603,Magazine Road,,,nan
+2604,Mage Ram Park,,,nan
+2605,Maharam Mohalla,,,nan
+2606,Maharana Pratap Enclave,,,nan
+2607,Mahaveer Nagar,,,nan
+2608,Mahavir Enclave II & III,,,nan
+2609,Mahavir Enclave Part 2,,,nan
+2610,Mahipalpur KBlock,,,nan
+2611,Main Bazar Road,,,nan
+2612,Main Durga Puri,,,nan
+2613,Main Gopal Nagar Road,,,nan
+2614,Main High Street,,,nan
+2615,Main Market Road,,,nan
+2616,Main Road F Pocket,,,nan
+2617,Main Sagarpur,,,nan
+2618,Majlis Park,,,nan
+2619,Majlish Park,,,nan
+2620,Majnu Ka Tilla,,,nan
+2621,Major Bhupinder Singh Nagar,,,nan
+2622,Makanpur Colony,,,nan
+2623,Malcha,,,nan
+2624,Mall Road,,,nan
+2625,Malviya Nagar Delhi Metropolit,,,nan
+2626,Malviya Nagar Savitri Nagar,,,nan
+2627,Manak Vihar,,,nan
+2628,Manak Vihar Extension,,,nan
+2629,Mandir Wali Gali,,,nan
+2630,Mandoli Extension,,,nan
+2631,Mangal Apartment,,,nan
+2632,Mangalam Place,,,nan
+2633,Mangalpuri I,,,nan
+2634,Mangol Pur Kalan,,,nan
+2635,Mangolpuri H Block,,,nan
+2636,Mansi Vihar,,,nan
+2637,Mansingh Nagar,,,nan
+2638,Mansingh road,,,nan
+2639,Marium Nagar,,,nan
+2640,Masair Garden,,,nan
+2641,Masihgarh,,,nan
+2642,Masjid Moth Phase I,,,nan
+2643,Masudabad,,,nan
+2644,Masudpur Village,,,nan
+2645,Mata Rameshwari Nehru Nagar,,,nan
+2646,Mathura Road  Jasola,,,nan
+2647,Mathura Road New Friends Colon,,,nan
+2648,Matiala Extn,,,nan
+2649,Matiala Nanhe Park,,,nan
+2650,Maulana Azad Medical College C,,,nan
+2651,Maurice Nagar,,,nan
+2652,Mausam Vihar,,,nan
+2653,Mawai Village,,,nan
+2654,Mayapuri Industrial Area Phase,,,nan
+2655,Mayapuri Phase II New Delhi,,,nan
+2656,Mayur Vihar 2 Phase,,,nan
+2657,Mayur Vihar I ext,,,nan
+2658,Mayur Vihar Phase 1 Kotla,,,nan
+2659,Mayur Vihar Phase 2 Pocket F,,,nan
+2660,Mayur Vihar Phase II,,,nan
+2661,Mayur Vihar Phase II Pocket B,,,nan
+2662,Mayur Vihar Pocket D,,,nan
+2663,MBS Nagar Block WZ,,,nan
+2664,MBS Nagar Road,,,nan
+2665,Meera Kunj,,,nan
+2666,Meet Nagar,,,nan
+2667,Milakpur Kohi Rangpuri,,,nan
+2668,Milan Vihar,,,nan
+2669,Mini Market,,,nan
+2670,Minto Road Complex,,,nan
+2671,Mittal Garden,,,nan
+2672,MMTC Colony,,,nan
+2673,Model Town Phase I,,,nan
+2674,Mohammadpur Majri,,,nan
+2675,Mohan Block,,,nan
+2676,Mohan Park,,,nan
+2677,Mohanpuri Vijay Park,,,nan
+2678,Mohit Nagar,,,nan
+2679,Mool Chand Hospital,,,nan
+2680,Mother Dairy,,,nan
+2681,Mother Dairy Plant,,,nan
+2682,Mother Teresa Drive,,,nan
+2683,Moti Ram Road,,,nan
+2684,Motia Khan,,,nan
+2685,Mubarak Pur,,,nan
+2686,Mubarkpur,,,nan
+2687,Mukherjee Park Extension,,,nan
+2688,Mukherji Park,,,nan
+2689,Mukhmelpur Village,,,nan
+2690,Mukhram Garden,,,nan
+2691,Multan Mohalla,,,nan
+2692,Multani Dhanda,,,nan
+2693,Muncipal Corporation Of Delhi ,,,nan
+2694,Mundhela Khurd,,,nan
+2695,Munirka Street,,,nan
+2696,Muradi Road,,,nan
+2697,Mustafabad Extension,,,nan
+2698,Mustafabad Extn,,,nan
+2699,Nabi Karim,,,nan
+2700,Nai Basti Delhi,,,nan
+2701,Nai Sarak,,,nan
+2702,Nai Walan,,,nan
+2703,Najafgarh Bahadurgarh Road,,,nan
+2704,Najafgarh Dauralla Road,,,nan
+2705,Najafgarh Extension,,,nan
+2706,Najafgarh Kapashera Road,,,nan
+2707,Najafgarh Road,,,nan
+2708,Nanak Heri Village,,,nan
+2709,Nanak Pura,,,nan
+2710,Nand Nagri,,,nan
+2711,Nand Ram Park,,,nan
+2712,Nanda Road,,,nan
+2713,Nangal Dewat,,,nan
+2714,Nangal Raya,,,nan
+2715,Nangli Dairy,,,nan
+2716,Nangli Poona,,,nan
+2717,Nangli Vihar Extension,,,nan
+2718,Nangloi Najafgarh Road,,,nan
+2719,Nanhey Park,,,nan
+2720,Nankheri,,,nan
+2721,Narang Colony,,,nan
+2722,Narwana Rd,,,nan
+2723,Narwana Road,,,nan
+2724,Nasirpur Extn,,,nan
+2725,Nathu Colony,,,nan
+2726,National Highway 48,,,nan
+2727,National Market,,,nan
+2728,National Park,,,nan
+2729,Nauroji Nagar,,,nan
+2730,Nav Bharat Appartements,,,nan
+2731,Naveen Kunj Society,,,nan
+2732,Naveen Palace,,,nan
+2733,Navjivan Buddh Vihar,,,nan
+2734,navkarali sec 3,,,nan
+2735,Navyug Adarsh Apartment,,,nan
+2736,Naya Bans,,,nan
+2737,Nayaya Marg,,,nan
+2738,Nazarbagh,,,nan
+2739,NCERT Campus,,,nan
+2740,NDPL Colony,,,nan
+2741,NEAR BY IGI AIRPORT,,,nan
+2742,Near hero moto corp,,,nan
+2743,Near Janakpuri,,,nan
+2744,Near NSP gopal mandir city par,,,nan
+2745,Near Sector 1,,,nan
+2746,Near Sector 14 Redisson blue,,,nan
+2747,Nehru Gali,,,nan
+2748,Nehru Place Pedestrian Subway,,,nan
+2749,Nehru Vihar,,,nan
+2750,Nepali Mandir Road,,,nan
+2751,New Aruna Nagar,,,nan
+2752,New Brij Puri,,,nan
+2753,New Chauhanpur,,,nan
+2754,New Delhi Main Road,,,nan
+2755,NEW DEPLOMATICE EMBASSY,,,nan
+2756,New Embessy,,,nan
+2757,New Gopal Nagar,,,nan
+2758,New Guru Hari Kishan Nagar,,,nan
+2759,New Jagat Puri Extension,,,nan
+2760,New Layal Pur Colony,,,nan
+2761,New Manglapuri,,,nan
+2762,New Modern Shahdara,,,nan
+2763,New Moti Bagh,,,nan
+2764,New Multan Nagar,,,nan
+2765,New Patel Nagar,,,nan
+2766,New Patpar Ganj Road,,,nan
+2767,New Rajdhani Enclave,,,nan
+2768,New Ranjit Colony,,,nan
+2769,New Roshan Pura Extn,,,nan
+2770,New Roshanpura,,,nan
+2771,New Sabhapur Karwal Nagar,,,nan
+2772,New Seelampur I,,,nan
+2773,New Shabhapur Gujran,,,nan
+2774,New Simapuri,,,nan
+2775,New Usmanpur,,,nan
+2776,NH 1,,,nan
+2777,Nicholson Road,,,nan
+2778,Nikhil Vihar,,,nan
+2779,Nikhil Vihar Colony,,,nan
+2780,Nilothi Road,,,nan
+2781,Nimri Colony,,,nan
+2782,Nipccd Campus,,,nan
+2783,Niranjan Park,,,nan
+2784,Nishat Park,,,nan
+2785,Nivedita Kunj,,,nan
+2786,Noor Nagar Extn I,,,nan
+2787,North Chhajupur,,,nan
+2788,North Ex Model Town,,,nan
+2789,NPL Staff Quarters,,,nan
+2790,NRI Colony,,,nan
+2791,Nursigh Garden Block A,,,nan
+2792,O l d Palam Road,,,nan
+2793,O l d R K Ashram Marg,,,nan
+2794,Okhla Disposal Area,,,nan
+2795,okhla estate,,,nan
+2796,Okhla Estate Marg,,,nan
+2797,okhla estate modi mill,,,nan
+2798,Okhla Head Road,,,nan
+2799,Okhla I,,,nan
+2800,Okhla Phase II,,,nan
+2801,Okhla Phase III,,,nan
+2802,Okhla Sabzi Mandi,,,nan
+2803,Okhla Vihar Block A,,,nan
+2804,Okhla Vihar Block C,,,nan
+2805,Okhla Vihar Block D,,,nan
+2806,Old Dariya Ganj,,,nan
+2807,Old M B Road,,,nan
+2808,Old Mahavir Nagar,,,nan
+2809,Old Mustafabad,,,nan
+2810,Old Palam Road,,,nan
+2811,Old Rajinder Market,,,nan
+2812,Old Ranjeet Nagar,,,nan
+2813,Old Sabji Mandi,,,nan
+2814,Old Sahib Pura,,,nan
+2815,Old Seelampur,,,nan
+2816,Old Som Bazar Road,,,nan
+2817,Oldanpur,,,nan
+2818,Om Vihar Extn,,,nan
+2819,Omar Masjid Road,,,nan
+2820,Om Vihar Extn,,,nan
+2821,Omar Masjid Road,,,nan
+2822,Onkar Nagar,,,nan
+2823,Osho Drive,,,nan
+2824,Osho Drive Sultanpur Mandi Roa,,,nan
+2825,Other,,,nan
+2826,Outer Ring Road,,,nan
+2827,Outram Line,,,nan
+2828,Outram Lines Road,,,nan
+2829,Paathshala Marg,,,nan
+2830,Padam Nagar,,,nan
+2831,Padhan Enclave,,,nan
+2832,Padmini Enclave,,,nan
+2833,Pahar Ganj,,,nan
+2834,Pahari Dhiraj,,,nan
+2835,Paharwa Colony,,,nan
+2836,Pai Walan,,,nan
+2837,Palam Dabri Marg,,,nan
+2838,Palam Dabri Road,,,nan
+2839,Palam Enclave,,,nan
+2840,Pali Factory Road,,,nan
+2841,Panchkuia Road,,,nan
+2842,Panchkulan Road,,,nan
+2843,Panchsheel Garden,,,nan
+2844,Panchwathi,,,nan
+2845,Pandara Road,,,nan
+2846,Pandit Deen Dayal Upadhyaya Ma,,,nan
+2847,pandwala kalai schools,,,nan
+2848,Pandwala khurd,,,nan
+2849,Pandwalan Khurd,,,nan
+2850,Papankalan,,,nan
+2851,Paprawat,,,nan
+2852,Paprawat Village,,,nan
+2853,Park Facing,,,nan
+2854,Parmanand Colony West,,,nan
+2855,Parshwapuram,,,nan
+2856,Part 1,,,nan
+2857,Part 2,,,nan
+2858,Part 4,,,nan
+2859,Part B,,,nan
+2860,Partappura,,,nan
+2861,Paschim Vihar A1 Block Paschim,,,nan
+2862,Paschim Vihar Block GH 13,,,nan
+2863,Paschim Vihar Extension,,,nan
+2864,Patel Road,,,nan
+2865,Pathan Pura,,,nan
+2866,Patpar Ganj Road,,,nan
+2867,Paul Colony,,,nan
+2868,PD Block Delhi,,,nan
+2869,Pedestrian Underpass,,,nan
+2870,Peer Baba Road,,,nan
+2871,Phase 1,,,nan
+2872,Phase 1,,,nan
+2873,Phase 1,,,nan
+2874,Phase 1,,,nan
+2875,Phase 1,,,nan
+2876,Phase 1,,,nan
+2877,Phase 1,,,nan
+2878,Phase 2,,,nan
+2879,Phase 3,,,nan
+2880,Phase 3,,,nan
+2881,Phase 3,,,nan
+2882,Phase 3 Mayur Vihar,,,nan
+2883,Phase 4,,,nan
+2884,Phase 5,,,nan
+2885,Phase I,,,nan
+2886,Phase II,,,nan
+2887,Phase II,,,nan
+2888,Phase II Vijay Vihar Vijay Vih,,,nan
+2889,Phase V,,,nan
+2890,Phase V Nai Dilli,,,nan
+2891,PI Delhi,,,nan
+2892,Pilanji,,,nan
+2893,Pink Apartments,,,nan
+2894,Pira Garhi,,,nan
+2895,Pitam Pura KU Block,,,nan
+2896,Pitampura Block KD,,,nan
+2897,Pitampura Block NP,,,nan
+2898,Pitampura Block TU,,,nan
+2899,Pitampura BU Block,,,nan
+2900,Pitampura PD Block,,,nan
+2901,Plot No 2 Gali No 2 Rajpur Ext,,,nan
+2902,Plot Number 27,,,nan
+2903,Pocket 10 Sector I,,,nan
+2904,Pocket 11 Sector24,,,nan
+2905,Pocket 12 Sector 20,,,nan
+2906,Pocket 13 Sector 20,,,nan
+2907,Pocket 15 Sector24,,,nan
+2908,Pocket 16 Sector24,,,nan
+2909,Pocket 17 Sector24,,,nan
+2910,Pocket 19 Sector24,,,nan
+2911,Pocket 2 Sector 6,,,nan
+2912,Pocket 4 Sector C,,,nan
+2913,Pocket 4 Sector24,,,nan
+2914,Pocket 5,,,nan
+2915,Pocket 5 Sector24,,,nan
+2916,Pocket 52 Sector 9,,,nan
+2917,Pocket 6 Sector24,,,nan
+2918,Pocket 7 Sector24,,,nan
+2919,Pocket 9 Sector 21,,,nan
+2920,Pocket A 1,,,nan
+2921,Pocket B,,,nan
+2922,Pocket I Road,,,nan
+2923,Pocket K,,,nan
+2924,Pocket1 Sector24,,,nan
+2925,Pocket2 Sector24,,,nan
+2926,Police Colony,,,nan
+2927,Police Colony,,,nan
+2928,Police Colony,,,nan
+2929,Police Colony,,,nan
+2930,Police Colony Pocket J,,,nan
+2931,Poorvi Marg,,,nan
+2932,Possangipur,,,nan
+2933,Pragati Maidan,,,nan
+2934,Prahlad Vihar,,,nan
+2935,Prakash Vihar,,,nan
+2936,Prasad Nagar,,,nan
+2937,Prashant Vihar Road,,,nan
+2938,Pratap Enclave,,,nan
+2939,Pratap Nagar,,,nan
+2940,Pratap Vihar Part III,,,nan
+2941,Pratap Vihar Part III Delhi,,,nan
+2942,Prem Nagar II,,,nan
+2943,Prem Nagar III,,,nan
+2944,Prem Vihar 3A Colony,,,nan
+2945,Press Colony,,,nan
+2946,Press Enclave Marg,,,nan
+2947,Prithvi Park,,,nan
+2948,Private Colony,,,nan
+2949,Priya Priyadarshini Vihar,,,nan
+2950,Pulpehladpur,,,nan
+2951,Punjabi Bagh Bhagwan Das Nagar,,,nan
+2952,Punjabi Bagh Cooperative Housi,,,nan
+2953,Punjabi Bagh Enclave,,,nan
+2954,Punjabi Bagh Manohar Park,,,nan
+2955,Punjabi Basti,,,nan
+2956,Pusa,,,nan
+2957,Pusa Institute,,,nan
+2958,Pushpanjali,,,nan
+2959,Pusta Number 2,,,nan
+2960,Puthkhurd,,,nan
+2961,Qutab Enclave,,,nan
+2962,Qutab Institutional Area,,,nan
+2963,Qutub Enclave,,,nan
+2964,Qutub Intl Area,,,nan
+2965,Qutub Minar Complex Road,,,nan
+2966,R a m a Park Road,,,nan
+2967,R a m Nagar Road,,,nan
+2968,R D apartment,,,nan
+2969,R K Puram Sector 9 Road,,,nan
+2970,Race Course Road,,,nan
+2971,Radhe Mohan Drive,,,nan
+2972,Radhu Place,,,nan
+2973,Raghu Nagar,,,nan
+2974,Rahul Garden,,,nan
+2975,Rail Vihar,,,nan
+2976,Railway Colony North,,,nan
+2977,Railway Factory Road,,,nan
+2978,Raj Nagar I,,,nan
+2979,Raj Nagar Part 2,,,nan
+2980,raj nager,,,nan
+2981,raj vihar sector 18,,,nan
+2982,Rajan Enclave,,,nan
+2983,Rajbir Colony,,,nan
+2984,Rajdhani Park,,,nan
+2985,Rajeev Colony,,,nan
+2986,Rajeev Nagar,,,nan
+2987,Rajendra Park Extension,,,nan
+2988,Rajgarh Colony,,,nan
+2989,Rajgarh Colony Delhi,,,nan
+2990,Rajiv Nagar,,,nan
+2991,Rajiv Nagar Extension,,,nan
+2992,Rajiv Nagar Extension Delhi,,,nan
+2993,Rajiv Park,,,nan
+2994,Rajokri Village,,,nan
+2995,Rajpur Road,,,nan
+2996,Rajpura,,,nan
+2997,rajput sec 12,,,nan
+2998,Raju Enclave,,,nan
+2999,Raju Enclave Sector 15 Dwarka,,,nan
+3000,Raju Extension,,,nan
+3001,Ram Bagh,,,nan
+3002,Ram Colony,,,nan
+3003,Ram Nagar,,,nan
+3004,Ram Nagar Block A,,,nan
+3005,Ram Nagar Market,,,nan
+3006,Ram Nagar Road,,,nan
+3007,Ram Swaroop Vidyarthi Marg,,,nan
+3008,Rama Enclave,,,nan
+3009,Rama Garden,,,nan
+3010,Rama Nagar,,,nan
+3011,Rama Vihar,,,nan
+3012,Rama Vihar Block E,,,nan
+3013,Rama Vihar Sector 39,,,nan
+3014,RamaKrishna Ashram Marg,,,nan
+3015,Ramchander Enclave I & II,,,nan
+3016,Ramnagar New Delhi,,,nan
+3017,Rampuri,,,nan
+3018,Ramzanpur,,,nan
+3019,Rangpuri Nallapar,,,nan
+3020,Rangpuri Pahari,,,nan
+3021,Rani Garden Delhi,,,nan
+3022,Ranjeet Vihar,,,nan
+3023,Ranjit Vihar I,,,nan
+3024,Ranjit ViharI Delhi,,,nan
+3025,Ratan Lal Market,,,nan
+3026,Ratan Vihar,,,nan
+3027,Rawta More,,,nan
+3028,RBI Colony,,,nan
+3029,RBI Officers Colony,,,nan
+3030,RC BastiBlock WZ,,,nan
+3031,Regarpura,,,nan
+3032,Reserve Bank Colony Block BE,,,nan
+3033,Reserve Bank Enclave,,,nan
+3034,Residencial Property,,,nan
+3035,Residential Complex,,,nan
+3036,Residential Flat Malviya Nagar,,,nan
+3037,Residential Flat Raghubir Naga,,,nan
+3038,Residential Flat Rohini,,,nan
+3039,Residential Floor Greater Kail,,,nan
+3040,Residential Floor Safdarjung E,,,nan
+3041,Residential House Preet Vihar,,,nan
+3042,Revanta Smart Residency L Zone,,,nan
+3043,Ring Road  Lajpat Nagar,,,nan
+3044,Ring Road Model Town,,,nan
+3045,Rishabh Park,,,nan
+3046,Rishi Nagar,,,nan
+3047,Rithala Road,,,nan
+3048,Road No 28,,,nan
+3049,Road Number 20,,,nan
+3050,Rohini Jain Nagar,,,nan
+3051,Rohini Mangalam Place,,,nan
+3052,Rohini Rajeev Nagar,,,nan
+3053,Rohit Kunj Delhi,,,nan
+3054,Rohitash Nagar East,,,nan
+3055,Rohtash Nagar,,,nan
+3056,Roopam Wala Kunwa,,,nan
+3057,Roshan Garden,,,nan
+3058,Roshan Vihar 1,,,nan
+3059,Roshanara Road,,,nan
+3060,RPS Colony,,,nan
+3061,RST Enclave,,,nan
+3062,Ruchi Vihar,,,nan
+3063,Rupali Enclave,,,nan
+3064,S block,,,nan
+3065,S i r i Fort Road,,,nan
+3066,Saboli Extension,,,nan
+3067,Sabzi Mandi,,,nan
+3068,Sabzi Mandi,,,nan
+3069,Sadatpur,,,nan
+3070,Sadatpur Extension,,,nan
+3071,Sadh Nagar,,,nan
+3072,Sadh Nagar II,,,nan
+3073,Sadiq Nagar,,,nan
+3074,Sai Baba Encl.,,,nan
+3075,Sai Niwara Bharat Vihar,,,nan
+3076,Saidujab extension,,,nan
+3077,Saini Enclave Delhi,,,nan
+3078,Sainik Nagar Vipin Garden,,,nan
+3079,Saint Nagar Delhi,,,nan
+3080,Saiyad Ul Ajaib Extension,,,nan
+3081,Sakdarpur,,,nan
+3082,Samaspur Road,,,nan
+3083,Samaspur Village,,,nan
+3084,Samta Enclave,,,nan
+3085,Sanjay Nagar,,,nan
+3086,Sankar Nagar,,,nan
+3087,SANMATI APARTMENT,,,nan
+3088,Sansad Marg Area,,,nan
+3089,Sanskrit Nagar Society Sector ,,,nan
+3090,Sant Mohalla,,,nan
+3091,Sant Nagar Extension,,,nan
+3092,Sant Nagar Extension Delhi,,,nan
+3093,Santgarh,,,nan
+3094,Sanwal Nagar,,,nan
+3095,Sarai Jullena,,,nan
+3096,Sarai Khawaja Road,,,nan
+3097,Sarai Pipal Thala Village,,,nan
+3098,Sarangpur,,,nan
+3099,Saraswati Gali,,,nan
+3100,Saraswati Road,,,nan
+3101,Sardar Patel Marg,,,nan
+3102,Sarojini Nagar Market,,,nan
+3103,Saroop Nagar,,,nan
+3104,Sarswati Enclave,,,nan
+3105,sarswativihar kohat nsp lokvih,,,nan
+3106,Saryoda Apartment sec 12 pocke,,,nan
+3107,Sat Nagar,,,nan
+3108,Satguru Ram Singh Marg,,,nan
+3109,Satvari Ansals Villa,,,nan
+3110,Satya Vihar New Delhi,,,nan
+3111,Satyam Puram Colony,,,nan
+3112,Satyawati Colony,,,nan
+3113,Satyawati nagar,,,nan
+3114,Sawda,,,nan
+3115,SBI Colony,,,nan
+3116,sec 13,,,nan
+3117,sec 2 npsc apt,,,nan
+3118,sec 4,,,nan
+3119,sec 5,,,nan
+3120,sec 6 bridavan apt,,,nan
+3121,sec 6 katyani apt,,,nan
+3122,Sec 6 Market,,,nan
+3123,sec14 lig,,,nan
+3124,sec18 atulya apt,,,nan
+3125,Second Avenue,,,nan
+3126,Sector 1 Delhi,,,nan
+3127,Sector 1 pkt 1,,,nan
+3128,Sector 10 Rohini,,,nan
+3129,Sector 110,,,nan
+3130,Sector 113,,,nan
+3131,Sector 11A,,,nan
+3132,Sector 11B,,,nan
+3133,Sector 11C,,,nan
+3134,Sector 11D,,,nan
+3135,Sector 11E,,,nan
+3136,Sector 11F,,,nan
+3137,Sector 11G,,,nan
+3138,sector 12 pkt 3,,,nan
+3139,Sector 13 Main,,,nan
+3140,Sector 15,,,nan
+3141,Sector 15B,,,nan
+3142,Sector 15C,,,nan
+3143,Sector 15D,,,nan
+3144,Sector 15F,,,nan
+3145,Sector 15G,,,nan
+3146,Sector 16,,,nan
+3147,Sector 16 Main,,,nan
+3148,Sector 16 Rohini,,,nan
+3149,Sector 16B,,,nan
+3150,Sector 16C,,,nan
+3151,Sector 16D,,,nan
+3152,Sector 16E,,,nan
+3153,Sector 16F,,,nan
+3154,Sector 16G,,,nan
+3155,Sector 16H,,,nan
+3156,Sector 16I,,,nan
+3157,sector 18 pkt b,,,nan
+3158,Sector 18C,,,nan
+3159,Sector 18F,,,nan
+3160,Sector 1A,,,nan
+3161,Sector 1A Dwarka,,,nan
+3162,Sector 2 Delhi,,,nan
+3163,Sector 2 Rohini,,,nan
+3164,Sector 20,,,nan
+3165,Sector 20 Dwarka,,,nan
+3166,Sector 20C 1,,,nan
+3167,Sector 21E,,,nan
+3168,Sector 22 Road,,,nan
+3169,Sector 23 B,,,nan
+3170,Sector 24,,,nan
+3171,Sector 24 Pocket 11,,,nan
+3172,Sector 27,,,nan
+3173,Sector 27 Dwarka,,,nan
+3174,Sector 28,,,nan
+3175,Sector 3 Bawana Industrial Are,,,nan
+3176,Sector 3 Pocket 16,,,nan
+3177,Sector 31,,,nan
+3178,Sector 33 Rohini,,,nan
+3179,sector 34,,,nan
+3180,Sector 35 Kharghar,,,nan
+3181,Sector 3A,,,nan
+3182,Sector 3B,,,nan
+3183,Sector 3E,,,nan
+3184,Sector 44 Delhi,,,nan
+3185,Sector 4A,,,nan
+3186,Sector 4C,,,nan
+3187,Sector 5 Delhi,,,nan
+3188,Sector 54,,,nan
+3189,Sector 5A,,,nan
+3190,Sector 5B,,,nan
+3191,Sector 5C,,,nan
+3192,Sector 6A,,,nan
+3193,Sector 6B,,,nan
+3194,Sector 6C,,,nan
+3195,Sector 6D,,,nan
+3196,Sector 7 Jasola Vihar,,,nan
+3197,Sector 7 Road,,,nan
+3198,Sector 7B,,,nan
+3199,Sector 7C,,,nan
+3200,Sector 7G,,,nan
+3201,Sector 7H,,,nan
+3202,Sector 8 R K Puram,,,nan
+3203,Sector 8C,,,nan
+3204,Sector 8F,,,nan
+3205,sector A 9,,,nan
+3206,Sector A1,,,nan
+3207,Sector A10,,,nan
+3208,Sector A6,,,nan
+3209,Sector A7,,,nan
+3210,Sector B 2,,,nan
+3211,Sector B Pocket 8,,,nan
+3212,Sector C,,,nan
+3213,Sector C,,,nan
+3214,Sector C Pocket 1,,,nan
+3215,Sector C Pocket 5,,,nan
+3216,Sector C Pocket 9,,,nan
+3217,Sector D,,,nan
+3218,Sector D Vasant Kunj,,,nan
+3219,Sector E,,,nan
+3220,Sector G,,,nan
+3221,Sector G8 Delhi,,,nan
+3222,Sector Road,,,nan
+3223,Sector-17 Rohini,,,nan
+3224,Sector-A6 Narela,,,nan
+3225,Sector20 Rohini,,,nan
+3226,Sector24 Pocket 12,,,nan
+3227,Sector24 Pocket 15,,,nan
+3228,Sector28 Rohini,,,nan
+3229,SectorA Vasant Kunj,,,nan
+3230,SectorA6 Narela,,,nan
+3231,Seelampur,,,nan
+3232,Seelampur Colony,,,nan
+3233,Sersa,,,nan
+3234,SFS,,,nan
+3235,Shadi Khampur,,,nan
+3236,Shahabad Daulatpur Village,,,nan
+3237,Shahabad Muhammadpur,,,nan
+3238,Shahabad Muhammadpur Village,,,nan
+3239,Shahbad Dairy,,,nan
+3240,Shahbad Dairy Delhi,,,nan
+3241,shahbad moh pur,,,nan
+3242,Shahdara Shri Ram Nagar,,,nan
+3243,Shaheed Bhagat Singh Colony,,,nan
+3244,Shahi Idgah Colony,,,nan
+3245,Shahid Nagar,,,nan
+3246,Shahpura,,,nan
+3247,Shahzada Bagh,,,nan
+3248,Shakarpur Extension,,,nan
+3249,Shakshar Apartment,,,nan
+3250,Shakti Nagar Extension,,,nan
+3251,Shakti Vihar School Road,,,nan
+3252,Shakurbasti,,,nan
+3253,Shakurpur Colony,,,nan
+3254,Shalamar,,,nan
+3255,Shalimar Bagh BH Block,,,nan
+3256,Shalimar Garden,,,nan
+3257,Shalimar Garden Main Road,,,nan
+3258,Shalimar Place Site,,,nan
+3259,Shalimar Village,,,nan
+3260,Sham Nath Marg,,,nan
+3261,Shankar Nagar Gali,,,nan
+3262,Shankar Nagar West,,,nan
+3263,Shankar Vihar,,,nan
+3264,Shankarpura,,,nan
+3265,Shanker Garden,,,nan
+3266,Shanti Mohalla,,,nan
+3267,Shanti Nagar,,,nan
+3268,Sharda Niketan,,,nan
+3269,Sharda Niketan,,,nan
+3270,Sharma Colony,,,nan
+3271,Sharma Enclave,,,nan
+3272,Shashi Garden,,,nan
+3273,Shastri Park,,,nan
+3274,Sheikh Sarai Village,,,nan
+3275,Sher Singh Enclave,,,nan
+3276,Shera Mohalla,,,nan
+3277,Sherpur,,,nan
+3278,Sherpur Village,,,nan
+3279,Shiniwas Puri,,,nan
+3280,Shiv Colony,,,nan
+3281,Shiv Kunj,,,nan
+3282,Shiv Nagar Bazar Road,,,nan
+3283,Shiv Nagar Extension,,,nan
+3284,Shiv Park,,,nan
+3285,shiv vihar,,,nan
+3286,Shiv Vihar I,,,nan
+3287,Shiv Vihar VI,,,nan
+3288,Shiva Enclave,,,nan
+3289,Shiva Enclave,,,nan
+3290,Shivaji Nagar,,,nan
+3291,Shivaji Vihar New Delhi,,,nan
+3292,Shivalik Colony,,,nan
+3293,shivani apparment,,,nan
+3294,Shivani Enclave,,,nan
+3295,Shubham Enclave,,,nan
+3296,Shvalik,,,nan
+3297,Shvalik New Delhi,,,nan
+3298,Shyam Park,,,nan
+3299,Shyam Vihar I,,,nan
